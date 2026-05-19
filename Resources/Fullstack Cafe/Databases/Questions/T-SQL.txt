@@ -1,0 +1,69 @@
+Entry
+Q1: Mention what is TOP in T-SQL?
+Q2: Is it possible to rename a database? If so, how would you rename the database?
+
+Junior
+Q3: What is Blocking?
+Q4: What is the difference between Data Definition Language (DDL) and Data Manipulation Language (DML)?
+Q5: Mention what is OFFSET-FETCH filter in tsql?
+Q6: Mention what is Subquery?
+Q7: What are the two commands to remove all of the data from a table? Are there any implications with the specific commands?
+Q8: What are the three ways that Dynamic SQL can be issued?
+Q9: Mention what are the limitations of IDENTITY column?
+Q10: What’s the difference between a Local Temp Table and a Global Temp Table?
+Q11: When should I use primary key or index?
+Q12: Name 5 commands that can be used to manipulate text in T-SQL code
+Q13: Could you explain the difference between Primary Key and Unique Index?
+Q14: What are the new error handling commands introduced with SQL Server 2005 and beyond?
+Q15: Explain what are the differences between SQL and T-SQL?
+Q16: What is TSQL Window functions?
+
+Mid
+Q17: What is a Cursor and how does it work?
+Q18: What’s the difference between Azure SQL Database and Azure SQL Managed Instance?
+Q19: What are the advantages of using Stored Procedures?
+Q20: What are bitwise operators and what is the value from a database design perspective?
+Q21: Mention what are ROLLUP and CUBE in T-SQL?
+Q22: How do I perform an IF…THEN in an SQL SELECT?
+Q23: What’s the difference between TRUNCATE and DELETE in SQL?
+Q24: How can you delete duplicate records in a table with no primary key?
+Q25: Mention what are the Join Types in TSQL?
+Q26: What are types of XML indexes in SQL Server?
+Q27: What two commands were released in SQL Server 2005 related to comparing data sets from two or more separate SELECT statements?
+Q28: Mention what is uncommittable transactions?
+Q29: What are Row Constructors?
+Q30: In what version of SQL Server were synonyms released, what do synonyms do and when could you make the case for using them?
+Q31: Is there a difference between T-SQL linked server and a synonym?
+Q32: Mention what does the T-SQL command IDENT_CURRENT does?
+Q33: Explain Function vs. Stored Procedure in SQL Server
+Q34: What are the practical differences between COALESCE() and ISNULL('')?
+Q35: Is it possible to import data directly from T-SQL commands without using SQL Server Integration Services? If so, what are the commands?
+Q36: What is a Filegroup?
+
+Senior
+Q37: What is the difference between PARTITION BY and GROUP BY?
+Q38: Name some types of Triggers
+Q39: What is the difference between EXEC vs sp_executesql?
+Q40: What do Clustered and Non Clustered index actually mean?
+Q41: What is the use of GO in Transact SQL?
+Q42: What is a Linked Server?
+
+Expert
+Q43: From a T-SQL perspective, how would you prevent T-SQL code from running on a production SQL Server?
+Q44: What is the native system stored procedure to issue a command against all databases?
+Q45: What are the best practices for using a GUID as a primary key, specifically regarding performance?
+Q46: Why you should never use GUIDs as part of clustered index?
+Q47: Is it correct/best practice to have the TRY/CATCH block inside the transaction or should the transaction be inside the TRY block?
+
+
+
+Mid: Code
+Q1: Provide an example of Left Outer Join with Exclusions
+Q2: How do I UPDATE from a SELECT in SQL Server?
+Q3: How can you capture the length of a column when it is a Text, NText and/or Image data type?
+
+Senior: Code
+Q4: How does TRUNCATE and DELETE operations effect Identity?
+
+Expert: Code
+Q5: Insert results of a stored procedure into a temporary table

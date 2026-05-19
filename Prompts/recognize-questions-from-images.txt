@@ -1,0 +1,18 @@
+Recognise and output questions on images. Output them as plain text without "related to" or other tags. Put seniority tags as section headlines. Note that Code sections may not be always present. If the questions are about any html or markdown tags, put those tags into "" so the output is not messed. Follow formatting as in this example:
+
+Entry
+Q1: What is the .NET Framework?
+Q2: What is .NET Core?
+Q3: What is .NET Standard?
+
+Junior
+Q4: What is the difference between String and string in C#?
+Q5: What is Boxing and Unboxing?
+
+Entry: Code
+Q1: Implement a Queue using two Stacks
+Q2: Filter out the first 3 even numbers from the list using LINQ
+
+Junior: Code
+Q3: Can you do Iterative Pre-order Traversal of a Binary Tree without Recursion?
+Q4: Can you return multiple values from a function in C#? Provide some examples.

@@ -1,0 +1,59 @@
+Entry
+Q1: Define a Temp Table
+Q2: What is "PRIMARY KEY"?
+Q3: What is a "VIEW"?
+
+Junior
+Q4: What is Normalisation?
+Q5: What is the difference between Data Definition Language (DDL) and Data Manipulation Language (DML)?
+Q6: What is the difference between "TRUNCATE" and "DELETE"?
+Q7: What is "DEFAULT"?
+Q8: What is "FOREIGN KEY"?
+Q9: What is the difference between "INNER JOIN", "OUTER JOIN", "FULL OUTER JOIN"?
+Q10: What is the difference between "UNION" and "UNION ALL"?
+Q11: Describe the difference between "truncate" and "delete".
+Q12: What is Denormalization?
+
+Mid
+Q13: What's the difference between a Primary Key and a Unique Key?
+Q14: What are the difference between Clustered and a Non-clustered index?
+Q15: How does a Hash index work?
+Q16: How a database index can help performance?
+Q17: What is the difference between "WHERE" clause and "HAVING" clause?
+Q18: What is the difference between "JOIN" and "UNION"?
+Q19: What is Collation?
+Q20: What is the difference between "INNER JOIN" and "OUTER JOIN"?
+Q21: How can "VIEW" be used to provide security layer for your app?
+Q22: Discuss "INNER JOIN" on vs "WHERE" clause (with multiple "FROM" tables)
+Q23: Define ACID Properties
+Q24: What’s the difference between Azure SQL Database and Azure SQL Managed Instance?
+Q25: What is the cost of having a database index?
+Q26: What is faster, one big query or many small queries?
+
+Senior
+Q27: What is the difference among "UNION", "MINUS" and "INTERSECT"?
+Q28: Explain the difference between Exclusive Lock and Update Lock
+
+Expert
+Q29: How does B-trees Index work?
+Q30: Name some disadvantages of a Hash index
+Q31: What are some other types of Indexes (vs B-Trees)?
+Q32: How does database Indexing work?
+Q33: What is Optimistic Locking and Pessimistic Locking?
+Q34: What is the difference between B-Tree, R-Tree and Hash indexing?
+Q35: What is Index Cardinality and why does it matter?
+
+
+
+Mid: Code
+Q1: How to select first 5 records from a table?
+Q2: Find duplicate values in a SQL table
+
+Senior: Code
+Q3: What would happen without an Index?
+Q4: Delete duplicate values in a SQL table
+Q5: How can we transpose a table using SQL (changing rows to column or vice-versa)?
+Q6: How to generate row number in SQL without "ROWNUM"?
+Q7: How does "TRUNCATE" and "DELETE" operations effect Identity?
+Q8: How can I do an "UPDATE" statement with "JOIN" in SQL?
+Q9: Select first row in each "GROUP BY" group (greatest-n-per-group problem)?

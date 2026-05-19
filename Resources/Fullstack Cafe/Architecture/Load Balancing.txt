@@ -1,0 +1,31 @@
+Entry
+Q1: What Is Load Balancing?
+
+Junior
+Q2: Name some advantages of Round-Robin Load Balancing
+Q3: What Is Round-Robin Load Balancing?
+
+Mid
+Q4: What are some variants of Round-Robin Load Balancing algorithm?
+Q5: Explain what is Reverse Proxy Server?
+Q6: What Is a TCP Load Balancer?
+Q7: What is the Difference Between Weighted Load Balancing vs Round Robin Load Balancing?
+Q8: What Is Load Balancing Fail Over?
+Q9: What Is Sticky Session Load Balancing? What Do You Mean By "Session Affinity"?
+Q10: What is the difference between Session Affinity and Sticky Session?
+Q11: Why should we use Load Balancer (except preventing overloading)?
+Q12: What affect does SSL have on the way load balancing works?
+Q13: What Is IP Address Affinity Technique For Load Balancing?
+Q14: What are the Pros and Cons of the "sticky session" load balancing strategy?
+
+Senior
+Q15: What is the different between Layer7 vs Layer4 load balancing?
+Q16: When to choose Round-Robin load-balancing method?
+Q17: What are some Load Balancing Algorithms you know?
+Q18: What Are The Issues With Sticky Session?
+Q19: Name some metrics for traffic routing
+Q20: What Is a UDP Load Balancer?
+Q21: Explain what is “Power of Two Random Choices” Load Balancing?
+
+Expert
+Q22: Compare UDP Load Balancer vs TCP Load Balancer

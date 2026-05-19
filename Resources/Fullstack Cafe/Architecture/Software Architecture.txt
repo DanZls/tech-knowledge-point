@@ -1,0 +1,98 @@
+Entry
+Q1: What Is Load Balancing?
+Q2: What Is CAP Theorem?
+
+Junior
+Q3: What is Test Driven Development?
+Q4: What does the expression “Fail Early” mean, and when would you want to do so?
+Q5: What defines a software architect?
+Q6: Why is it a good idea for “lower” application layers not to be aware of “higher” ones?
+Q7: Why Do You Need Clustering?
+Q8: What is meant by the KISS principle?
+Q9: What Is A Cluster?
+Q10: What Is Scalability?
+Q11: Why use WebSocket over HTTP?
+Q12: Define Microservice Architecture
+Q13: What is Domain Driven Design?
+Q14: What do you understand by Clean Architecture approach?
+Q15: What do you mean by lower latency interaction?
+Q16: What is a Model in DDD?
+
+Mid
+Q17: In OOP, what is the difference between the Repository Pattern and a Service Layer?
+Q18: What does SOLID stand for? What are its principles?
+Q19: Is Unit Of Work equals Transaction? Or it is more than that?
+Q20: How can you keep one copy of your utility code and let multiple consumer components use and deploy it?
+Q21: "People who like this also like...". How would you implement this feature in an e-commerce shop?
+Q22: What does program to interfaces, not implementations mean?
+Q23: Explain the Single Responsibility Principle (SRP)?
+Q24: What is the difference between DTOs and ViewModels in DDD?
+Q25: What are the DRY and DIE principles?
+Q26: Name some Performance Testing best practices
+Q27: Is it better to return NULL or empty values from functions/methods where the return value is not present?
+Q28: What is Domain in DDD?
+Q29: What is difference between Fault Tolerance and Fault Resilience?
+Q30: Name some Performance Testing metrics to measure
+Q31: What is the difference between Concurrency and Parallelism?
+Q32: What does it mean "System Shall Be Resilient"?
+Q33: Explain what is Interface Segregation Principle (ISP) in Clean Architecture and what are some of its benefits?
+Q34: What Is Session Replication?
+Q35: What Is Sticky Session Load Balancing? What Do You Mean By "Session Affinity"?
+Q36: WebSockets vs Rest API for real time data? Which to choose?
+Q37: What Do You Mean By High Availability (HA)?
+Q38: Describe what is the Event Sourcing Pattern
+Q39: What Is Middle Tier Clustering?
+Q40: How Do you update a live heavy traffic site with minimum or Zero Down Time?
+Q41: Name some benefits of CQRS Pattern
+Q42: What Is ACID Property Of A System?
+Q43: What is the Command and Query Responsibility Segregation (CQRS) Pattern?
+Q44: What is the difference between Monolithic, SOA and Microservices Architecture?
+Q45: Explain the purpose of Clean Architecture Inner and Outer layers
+Q46: What is the difference between the Clean and the N-Tier Architectures?
+Q47: What is the difference between Behavior-Driven Development (BDD) vs Domain-Driven Design (DDD)?
+Q48: What is Bad Design?
+Q49: What is Back-Pressure?
+Q50: What is Elasticity (in contrast to Scalability)?
+Q51: What Is Load Balancing Fail Over?
+
+Senior
+Q52: Compare Onion vs Clean vs Hexagonal Architectures
+Q53: What is Unit test, Integration Test, Smoke test, Regression Test and what are the differences between them?
+Q54: How do you off load work from the Database?
+Q55: Explain what is Cache Stampede
+Q56: Compare "Fail Fast" vs "Robust" approaches of building software
+Q57: What will you choose: Repository Pattern or "smart" business objects?
+Q58: Is Repository Pattern as same as Active Record Pattern?
+Q59: How should I be grouping my Repositories when using Repository Pattern?
+Q60: What is the Dependency Inversion Principle (DIP) and why is it important?
+Q61: What is relationship between Repository and Unit of Work?
+Q62: What is BASE property of a system?
+Q63: Two customers add a product to the basket in the same time whose the stock was only one (1). What will you do?
+Q64: Provide Definition Of Location Transparency
+Q65: Explain Failure in contrast to Error
+Q66: What Is Sharding?
+Q67: What Is IP Address Affinity Technique For Load Balancing?
+Q68: Why should I isolate my domain entities from my presentation layer?
+Q69: Why should you structure your solution by components?
+Q70: Why layering your application is important? Provide some bad layering example.
+Q71: Explain threads to your grandparents
+Q72: What is actor model in context of a programming language?
+Q73: How to handle exceptions in a layered application?
+Q74: What is GOD class and why should we avoid it?
+Q75: Defend the monolithic architecture.
+Q76: What's the difference between principles YAGNI and KISS?
+
+Expert
+Q77: What Is Shared Nothing Architecture? How Does It Scale?
+Q78: What does Amdahl's Law mean?
+Q79: How do I test a "private" function or a class that has "private" methods, fields or inner classes?
+Q80: What is the difference between Cohesion and Coupling?
+Q81: Can we use the CQRS without the Event Sourcing?
+Q82: What is the most accepted transaction strategy for microservices?
+Q83: What Does Eventually Consistent Mean?
+Q84: Where DTO should be implemented, in a Domain Layer or in an Application Service Layer? Explain.
+Q85: What are heuristic exceptions?
+Q86: What are best practices for caching paginated results whose ordering/properties can change?
+Q87: Are you familiar with The Twelve-Factor App principles?
+Q88: Cache miss-storm: Dealing with concurrency when caching invalidates for high-traffic sites
+Q89: Why is writing software difficult? What makes maintaining software hard?

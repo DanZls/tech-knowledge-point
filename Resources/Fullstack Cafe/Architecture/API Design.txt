@@ -1,0 +1,55 @@
+Entry
+Q1: What is API Design?
+Q2: What REST stands for?
+
+Junior
+Q3: What are different types of Web Services?
+Q4: Define what is SOA
+Q5: What are the advantages of Web Services?
+Q6: What are the core components of a HTTP Request?
+Q7: Mention whether you can use GET request instead of PUT to create a resource?
+Q8: What are advantages of REST web services?
+Q9: What is cached response?
+Q10: Mention what are resources in a REST architecture?
+Q11: What is SOAP?
+Q12: Mention some key characteristics of REST?
+Q13: Mention what is the difference between RPC or document style web services? How you determine to choose which one to choose?
+Q14: What's the difference between REST & RESTful?
+
+Mid
+Q15: What are the primary security issues of web service?
+Q16: What is Payload?
+Q17: What are the best practices for caching?
+Q18: What is the purpose of HTTP Status Code?
+Q19: What are disadvantages of SOAP Web Services?
+Q20: What is statelessness in RESTful Webservices?
+Q21: What are the best practices to create a standard URI for a web service?
+Q22: How would you choose between SOAP and REST web services?
+Q23: WebSockets vs Rest API for real time data? Which to choose?
+Q24: What is the use of "Accept" and "Content-Type" Headers in HTTP Request?
+Q25: What are disadvantages of REST web services?
+Q26: What are the core components of a HTTP response?
+Q27: Mention what are the different application integration styles?
+Q28: What is UDDI?
+Q29: What are the disadvantages of statelessness in RESTful Webservices?
+Q30: What are different ways to test web services?
+Q31: Mention what is the difference between "PUT" and "POST"?
+Q32: What are the best practices to design a resource representation?
+
+Senior
+Q33: What do you mean by idempotent operation?
+Q34: What is difference between SOA and Web Services?
+Q35: Explain Cache-control header
+Q36: Which header of HTTP response provides control over caching?
+Q37: Explain element?
+Q38: What are the advantages of statelessness in RESTful Webservices?
+Q39: Explain what is the API Gateway pattern
+Q40: Which type of Webservices methods are to be idempotent?
+
+Expert
+Q41: Enlist some important constraints for RESTful web services
+Q42: What are the best practices to be followed while designing a secure RESTful web service?
+Q43: What is difference between OData and REST web services?
+Q44: Name some best practices for better RESTful API design
+Q45: What is Open API Initiative?
+Q46: Explain the difference between WCF, Web API, WCF REST and Web Service?

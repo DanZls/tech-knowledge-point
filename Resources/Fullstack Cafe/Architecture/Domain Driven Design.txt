@@ -1,0 +1,45 @@
+Junior
+Q1: What is Domain Driven Design?
+Q2: What is "Domain" in DDD?
+Q3: How would you describe what is Domain Driven Design from the developer point of view?
+Q4: What is a Domain Model in DDD?
+Q5: What is a Specification in DDD?
+Q6: What are the fundamental components of Domain-Driven Design?
+Q7: List some advantages of Domain-Driven Design. Why developers shall use it?
+Q8: What is the distinction between Value Types and Entities in DDD?
+Q9: What is the purpose of Service in Domain-Driven Design (DDD)?
+Q10: What is Domain in DDD?
+Q11: Explain the concept of Repository in the context of DDD
+Q12: What is the difference between Value vs Entity Objects in DDD?
+
+Mid
+Q13: What is the difference between Domain Objects, POCO, Services, Repositories and Entities?
+Q14: What is the difference between Behavior-Driven Development (BDD) vs Domain-Driven Design (DDD)?
+Q15: What is Event Storming in DDD?
+Q16: What is the Command and Query Responsibility Segregation (CQRS) Pattern?
+Q17: Name some benefits of CQRS Pattern
+Q18: Describe what is the Event Sourcing Pattern
+Q19: What's an Aggregate Root in DDD?
+Q20: What is the differences between Strategic Patterns and Tactical Patterns?
+Q21: What is a Model in DDD?
+Q22: What is the difference between DTOs and ViewModels in DDD?
+Q23: Explain the different layers in DDD
+Q24: What types of issues does an Aggregate solve in DDD?
+Q25: What does Bounded Context mean in DDD?
+Q26: Mention how can you give objects an Unique Identity in DDD?
+Q27: What does it mean to focus on Problem Space rather than the Solution Space?
+
+Senior
+Q28: What is the difference between DAO and Repository in DDD?
+Q29: What is the difference between Infrastructure Service and Repository in DDD?
+Q30: What is the difference between Factory and Repository in DDD?
+Q31: What is Context Mapping's purpose in DDD?
+Q32: What is Core Domain, Supporting Subdomain, and Generic Subdomain in DDD?
+Q33: What exactly are the Anti-Corruption layers in DDD? Provide an example.
+Q34: Provide some examples of Infrastructural Services in DDD
+Q35: What are Aggregates in Domain-Driven Design?
+Q36: What is main difference between Domain vs Application vs Infrastructure Services?
+
+Expert
+Q37: Can we use the CQRS without the Event Sourcing?
+Q38: Where DTO should be implemented, in a Domain Layer or in an Application Service Layer? Explain.

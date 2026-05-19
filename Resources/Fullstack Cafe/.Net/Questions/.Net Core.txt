@@ -1,0 +1,77 @@
+Entry
+Q1: What is the .NET Framework?
+Q2: What is .NET Core?
+Q3: What is .NET Standard?
+Q4: What is the difference between String and string in C#?
+
+Junior
+Q5: What is Boxing and Unboxing?
+Q6: What is Generic Host in .NET Core?
+Q7: What is IoC (DI) Container?
+Q8: What is CLR?
+Q9: What is an unmanaged resource in .NET?
+Q10: What is a .NET application domain?
+Q11: What is CTS?
+Q12: What is .NET Standard and why we need to consider it?
+Q13: What is MSIL?
+Q14: Name some CLR services?
+Q15: What’s the difference between SDK and Runtime in .NET Core?
+Q16: What are some characteristics of .NET Core?
+Q17: What you understand by Value types and Reference types in .NET? Provide some comparison.
+Q18: What is the difference between decimal, float and double in .NET?
+Q19: What is the difference between .NET Core and Mono?
+
+Mid
+Q20: How can you create your own Scope for a Scoped object in .NET?
+Q21: What is the difference between .NET Standard and PCL (Portable Class Libraries)?
+Q22: Explain two types of deployment for .NET Core applications
+Q23: What officially replaces WCF in .Net Core?
+Q24: What is Explicit Compilation?
+Q25: What are the benefits of Explicit Compilation (AOT)?
+Q26: What are some benefits of using Options Pattern in ASP.NET Core?
+Q27: What is the difference between Class Library (.NET Standard) and Class Library (.NET Core)?
+Q28: What’s is BCL?
+Q29: What is JIT compiler?
+Q30: When should we use .NET Core and .NET Standard Class Library project types?
+Q31: Explain the IoC (DI) Container service lifetimes?
+Q32: What is FCL?
+Q33: What about MVC in .NET Core?
+Q34: What does Common Language Specification (CLS) mean?
+Q35: What is difference between .NET Core and .NET Framework?
+Q36: What’s the difference between .NET Core, .NET Framework, and Xamarin?
+Q37: What is Kestrel?
+Q38: Is there a way to catch multiple exceptions at once and without code duplication?
+Q39: What is the use of the IDisposable interface?
+Q40: Explain the use of BackgroundService class in Asp.Net Core?
+Q41: What is the correct pattern to implement long running background work in Asp.Net Core?
+Q42: Explain the difference between Task and Thread in .NET
+Q43: Explain the difference between Managed and Unmanaged code in .NET?
+Q44: Explain what is included in .NET Core?
+Q45: What is CoreCLR?
+
+Senior
+Q46: What’s the difference between gRPC and WCF?
+Q47: Explain different types of Inheritance
+Q48: When using DI in Controller shall I call IDisposable on any injected service?
+Q49: What is the difference between IHost vs IHostBuilder vs IHostedService?
+Q50: What is the difference between Hosted Services vs Windows Services?
+Q51: When to use Transient vs Scoped vs Singleton DI service lifetimes?
+Q52: Why shouldn't I use the Repository Pattern with Entity Framework?
+Q53: How to choose the target version of .NET Standard library?
+Q54: Does .NET support Multiple Inheritance?
+Q55: Explain Implicit Compilation process
+Q56: What is the difference between .NET Framework/Core and .NET Standard Class Library project types?
+Q57: What are benefits of using JIT?
+Q58: Why does .NET use a JIT compiler instead of just compiling the code once on the target machine?
+Q59: Explain how does Asynchronous tasks Async/Await work in .NET?
+Q60: Why does .NET Standard library exist?
+Q61: What is the difference between CIL and MSIL (IL)?
+Q62: What’s the difference between RyuJIT and Roslyn?
+Q63: What is the difference between AppDomain, Assembly, Process and a Thread?
+
+Expert
+Q64: Could you name the difference between .Net Core, Portable, Standard, Compact, UWP, and PCL?
+Q65: What is the difference between Node.js async model and async/await in .NET?
+Q66: Explain when to use Finalize vs Dispose?
+Q67: Explain some deployment considerations for Hosted Services
+Q68: How many types of JIT Compilations do you know?

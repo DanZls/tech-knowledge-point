@@ -1,0 +1,11 @@
+Answer C# .Net interview preparation questions 12-26 (theory) from this file. 
+Include short minimal code examples where necessary. Add them as a single block of code at the end of each answer.
+Maintain readable code alignment in your examples. Do not place class declaration, its methods and their content on a single line.
+The answers must be within 10-15 sentences limit (not including the code example). 
+Keep your answers concise, but not too short, don't skip important details.
+If your answer is under the limit, add more details to it to avoid sketchy follow-up questions from interviewers.
+Format your response with questions and answers included.
+Do not add words like "Answer:" or "Example:".
+Use "#" to mark section headlines like "Junior", "Mid" etc.
+Use "##" to mark the questions.
+Use "---" at the end of each answer.

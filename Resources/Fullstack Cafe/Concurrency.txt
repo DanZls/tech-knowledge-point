@@ -1,0 +1,28 @@
+Junior
+Q1: What is a Mutex?
+Q2: What is a Deadlock?
+Q3: Is there any difference between a Binary Semaphore and Mutex?
+
+Mid
+Q4: Explain the difference between Asynchronous and Parallel programming?
+Q5: What is the difference between Concurrency and Parallelism?
+Q6: Write a function that guarantees to never return the same value twice
+Q7: How much work should I place inside a lock statement?
+Q8: What is a Race Condition?
+Q9: Explain Deadlock to 5 years old
+Q10: What is the meaning of the term "Thread-Safe"?
+Q11: What's the difference between Deadlock and Livelock?
+
+Senior
+Q12: Provide some real-live examples of Livelock
+Q13: What are some advantages of Lockless Concurrency?
+Q14: What is Starvation?
+Q15: Compare Actor Model with Threading Model for concurrency
+Q16: What is Green Thread?
+Q17: What is a Data Race?
+Q18: Two customers add a product to the basket in the same time whose the stock was only one (1). What will you do?
+Q19: Explain what is a Race Condition to 5 years old
+
+Expert
+Q20: What is the difference between Race Condition and Data Races? Are they the same?
+Q21: What happens if you have a "race condition" on the lock itself?

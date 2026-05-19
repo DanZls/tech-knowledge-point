@@ -1,0 +1,133 @@
+Entry
+Q1: What is Routing Guard in Angular?
+Q2: What is a Module, and what does it contain?
+
+Junior
+Q3: How would you run unit test?
+Q4: What is a Service, and when will you use it?
+Q5: What is Interpolation?
+Q6: What is the difference between Structural and Attribute directives in Angular?
+Q7: What are the differences between AngularJS (angular 1.x) and Angular (Angular 2.x and beyond)?
+Q8: What is the purpose of base href tag?
+Q9: What's the difference between an Angular Component and Module?
+Q10: How would you protect a component being activated through the router?
+Q11: What is an Observable?
+Q12: What is a Component? Why would you use it?
+Q13: What is the minimum definition of a Component?
+Q14: What is a bootstrapping module?
+Q15: What is an Observer?
+Q16: What are Observables?
+Q17: What is the difference between @Component and @Directive in Angular?
+Q18: What is the equivalent of ngShow and ngHide in Angular?
+Q19: What is the difference between *ngIf vs [hidden]?
+Q20: You have an HTML response I want to display. How do I do that?
+
+Mid
+Q21: What is Subscribing?
+Q22: What is Router Outlet?
+Q23: What is Router State?
+Q24: What is Angular Universal?
+Q25: What is Protractor?
+Q26: What is Bazel?
+Q27: What is Activated route?
+Q28: What are the utility functions provided by RxJS?
+Q29: Why would you use a spy in a test?
+Q30: Explain the difference between Constructor and ngOnInit
+Q31: Why Incremental DOM has low memory footprint?
+Q32: Can you explain the difference between Promise and Observable in Angular? In what scenario can we use each case?
+Q33: What happens if you use <script> tag inside template?
+Q34: What is AOT?
+Q35: What is Redux and how does it relate to an Angular app?
+Q36: Why should ngOnInit be used, if we already have a constructor?
+Q37: When would you use eager module loading?
+Q38: How to inject base href?
+Q39: How do you perform error handling in Observables?
+Q40: What are the ways to control AOT compilation?
+Q41: Explain Lazy Loading in Angular?
+Q42: What is the purpose of Wildcard route?
+Q43: What is TestBed?
+Q44: Explain how Custom Elements works internally?
+Q45: What are Custom elements?
+Q46: What are dynamic components?
+Q47: What is the option to choose between Inline and External template file?
+Q48: What is Multicasting?
+Q49: How do you perform Error Handling for HttpClient?
+Q50: What is a Parameterized pipe?
+Q51: What is the difference between @Component and @Directive in Angular?
+Q52: Do I always need a Routing Module?
+Q53: What is difference between declarations, providers and import in NgModule?
+Q54: What is the use of Codelyzer?
+Q55: What is the difference between promise and observable?
+Q56: What is Angular Ivy?
+Q57: Explain the difference between Promise and Observable in Angular?
+Q58: How do you categorize data binding types?
+Q59: What's new in Angular 6 and why shall we upgrade to it?
+Q60: What does detectChanges do in Angular Jasmine tests?
+Q61: Do I need to bootstrap custom elements?
+Q62: What are the mapping rules between Angular component and custom element?
+Q63: Angular 9: What are some new features in Angular 9?
+Q64: When does a lazy loaded module is loaded?
+Q65: What is ngUpgrade?
+Q66: What does a just-in-time (JIT) compiler do (in general)?
+Q67: Why would you use lazy loading modules in Angular app?
+Q68: What is difference between Incremental DOM and Virtual DOM?
+
+Senior
+Q69: Why would you use renderer methods instead of using native element methods?
+Q70: How do you create application to use scss?
+Q71: Why do we need compilation process in Angular?
+Q72: Explain the purpose of Service Workers in Angular
+Q73: What is the need for SystemJS in Angular?
+Q74: What is Reactive Programming and how does it relate to Angular?
+Q75: Are there any pros/cons (especially performance-wise) in using local storage to replace cookie functionality?
+Q76: What is Ivy Renderer?
+Q77: What are the lifecycle hooks for components and directives?
+Q78: Name and explain some Angular Module Loading examples
+Q79: What would be a good use for NgZone service?
+Q80: What is the difference between pure and impure pipe?
+Q81: How would you insert an embedded view from a prepared TemplateRef?
+Q82: What is Incremental DOM? How is it different from Virtual DOM?
+Q83: How to detect a route change in Angular?
+Q84: Name some security best practices in Angular
+Q85: What are the advantages with AOT?
+Q86: Why we should use Bazel for Angular builds?
+Q87: What is Zone in Angular?
+
+Expert
+Q88: Name some differences between SystemJS vs webpack?
+Q89: When to use query parameters versus matrix parameters in Url?
+Q90: How would you extract webpack config from angular cli project?
+Q91: How does Ivy affect the (Re)build time?
+Q92: What are observable creation functions?
+Q93: Angular 8: What are some changes in Location module?
+Q94: Angular 9: Explain improvements in Tree-Shaking
+Q95: Could you provide some particular examples of using NgZone?
+Q96: Do you know how you can run AngularJS and Angular side by side?
+Q97: What is Locality principle for Ivy?
+Q98: Why did the Google team go with incremental DOM instead of virtual DOM?
+Q99: Just-in-Time (JIT) vs Ahead-of-Time (AOT) compilation. Explain the difference.
+Q100: Why Angular uses Url segment?
+Q101: What is the difference between BehaviorSubject vs Observable?
+Q102: Why Incremental DOM is Tree Shakable?
+Q103: How Would You Compare View Engine vs Ivy?
+Q104: Is there no equivalent to $scope.emit() or $scope.broadcast() in Angular?
+
+
+
+Entry: Code
+Q1: What are Pipes? Give me an example.
+
+Junior: Code
+Q2: How can I select an element in a component template?
+Q3: What does this line do?
+
+Mid: Code
+Q4: How to bundle an Angular app for production?
+Q5: How would you control size of an element on resize of the window in a component?
+
+Senior: Code
+Q6: How to set headers for every request in Angular?
+Q7: Could I use jQuery with Angular?
+
+Expert: Code
+Q8: What is the Angular equivalent to an AngularJS $watch?

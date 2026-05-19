@@ -1,0 +1,66 @@
+Entry
+Q1: What is Inheritance?
+Q2: What is Object-Oriented Programming (OOP)?
+
+Junior
+Q3: What is the difference between a class and a structure?
+Q4: Why is the virtual keyword used in code?
+Q5: Can you inherit private members of a class?
+Q6: Explain the concept of Constructor
+Q7: What is the difference between procedural and object-oriented programming?
+Q8: What is Encapsulation?
+Q9: What is Polymorphism?
+Q10: What is an object?
+Q11: What is a class?
+Q12: What is the relationship between a class and an object?
+Q13: Explain the basic features of OOPs
+Q14: Can you specify the accessibility modifier for methods inside the interface?
+
+Mid
+Q15: Is it possible for a class to inherit the constructor of its base class?
+Q16: How could you define Abstraction in OOP?
+Q17: State the features of an Interface
+Q18: What do you mean by Data Encapsulation?
+Q19: What are similarities between a class and a structure?
+Q20: Interface or an Abstract class: which one to use?
+Q21: How is method overriding different from method overloading?
+Q22: What is Unit Of Work?
+Q23: What are the different ways a method can be Overloaded?
+Q24: What's the difference between a method and a function in OOP context?
+Q25: How can you prevent your class to be inherited further?
+Q26: What is the difference between Virtual method and Abstract method?
+Q27: What is the difference between Interface and Abstract Class?
+Q28: What is Polymorphism, what is it for, and how is it used?
+Q29: What are abstract classes? What are the distinct characteristics of an abstract class?
+Q30: How can you prevent a class from overriding in C#?
+Q31: When should I use a struct instead of a class?
+Q32: Explain the concept of Destructor
+
+Senior
+Q33: How to solve Circular Reference?
+Q34: Could you explain some benefits of Repository Pattern?
+Q35: What is Coupling in OOP?
+Q36: What exactly is the difference between an Interface and abstract class?
+Q37: Explain different types of Inheritance
+Q38: What's the advantage of using getters and setters - that only get and set - instead of simply using public fields for those variables?
+Q39: Differentiate between an abstract class and an interface
+Q40: What is a static constructor?
+Q41: What is the difference between an abstract function and a virtual function?
+Q42: What is the difference between Cohesion and Coupling?
+Q43: When should I use an Interface and when should I use a Base Class?
+Q44: What is Cohesion in OOP?
+Q45: Can you declare an overridden method to be static if the original method is not static?
+Q46: Does .NET support Multiple Inheritance?
+
+Expert
+Q47: Why prefer Composition over Inheritance? What trade-offs are there for each approach? When should you choose Inheritance over Composition?
+Q48: Could you elaborate Polymorphism vs Overriding vs Overloading?
+Q49: What is LSP (Liskov Substitution Principle) and what are some examples of its use (good and bad)?
+Q50: You have defined a destructor in a class that you have developed by using the C#, but the destructor never executed. Why?
+Q51: Can you declare a private class in a namespace?
+Q52: In terms that an OOP programmer would understand (without any functional programming background), what is a monad?
+Q53: What is the difference between Association, Aggregation and Composition?
+Q54: What is the difference between a Mixin and Inheritance?
+Q55: What does it mean to Program to an Interface?
+Q56: Can you provide a simple explanation of methods vs. functions in OOP context?
+Q57: Why doesn't C# allow static methods to implement an interface?

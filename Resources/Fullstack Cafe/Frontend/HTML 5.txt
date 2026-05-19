@@ -1,0 +1,70 @@
+Entry
+Q1: What is the purpose of the alt attribute on images?
+Q2: Explain meta tags in HTML
+Q3: What is an iframe and how it works?
+
+Junior
+Q4: What were some of the key goals and motivations for the HTML5 specification?
+Q5: What is the difference between span and div?
+Q6: What's the difference between an "attribute" and a "property" in HTML?
+Q7: Briefly describe the correct usage of the following HTML5 semantic elements: "header", "article", "section", "footer"
+Q8: What is Character Encoding?
+Q9: What is a self closing tag?
+Q10: How can you highlight text in HTML?
+Q11: How Can I Get Indexed Better by Search Engines?
+Q12: Explain the difference between cookies, session and local storage
+
+Mid
+Q13: Describe the difference between a 'cookie', 'sessionStorage' and 'localStorage'.
+Q14: What is WebSQL?
+Q15: What are Web Workers?
+Q16: What's new in HTML 5?
+Q17: What is the difference between "section" and "div"?
+Q18: What is the DOM?
+Q19: What are some differences that XHTML has compared to HTML?
+Q20: Where and why is the "rel=\"noopener\"" attribute used?
+Q21: Can a web page contain multiple "header" elements? What about "footer" elements?
+Q22: What are "data-" attributes good for?
+Q23: What is WebSQL?
+Q24: What is HTML5 Web Storage? Explain "localStorage" and "sessionStorage".
+Q25: What is the purpose of cache busting and how can you achieve it?
+Q26: How do you serve a page with content in multiple languages?
+Q27: Discuss the differences between an HTML specification and a browser’s implementation thereof.
+Q28: When is it appropriate to use the small element?
+Q29: What are "defer" and "async" attributes on a "script" tag?
+Q30: How do you change the direction of html text?
+Q31: Have you used different HTML templating languages before?
+Q32: What is an optional tag?
+Q33: How do you set IE compatibility mode?
+Q34: What does a DOCTYPE do?
+Q35: Explain the difference between block elements and inline elements
+Q36: Explain almost standard, full standard and quirks mode
+Q37: What's the difference between Full Standard, Almost Standard and Quirks Mode?
+Q38: Why do I need a doctype and what does it do?
+Q39: Describe the difference between "," and ".".
+Q40: What is WebP?
+
+Senior
+Q41: What kind of things must you be wary of when designing or developing for multilingual sites?
+Q42: How would you select svg or canvas for your site?
+Q43: Why to use HTML5 semantic tags?
+Q44: What are the building blocks of HTML5?
+Q45: What is an HTML preprocessor and are you using it?
+Q46: What is the purpose of 'main' element?
+Q47: Why you would use a "srcset" attribute in an image tag? Explain the process the browser uses when evaluating the content of this attribute.
+Q48: What is progressive rendering?
+Q49: What are Web Components?
+
+Expert
+Q50: Why is it generally a good idea to position CSSs between "<head>" and JSs just before "</body>"? Do you know any exceptions?
+Q51: What is an IndexedDB?
+Q52: What is accessibility & ARIA role means in a web application?
+Q53: Could you generate a public key in HTML?
+
+
+
+Entry: Code
+Q1: Write a HTML table tag sequence that outputs the following
+
+Senior: Code
+Q2: Check HTML Markup Validity
