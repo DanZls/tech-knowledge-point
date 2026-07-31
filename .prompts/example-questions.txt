@@ -1,0 +1,10 @@
+What is difference between Git vs SVN?
+What is Git?
+What is the command to write a commit message in Git?
+What's the difference between a pull request and a branch?
+What is Git fork? What is difference between fork, branch and clone?
+How does the Centralized Workflow work?
+What is the difference between git fetch and git pull?
+How to undo the most recent commits in Git?
+You need to update your local repos. What git commands will you use?
+Tell me the difference between HEAD, working tree and index, in Git?

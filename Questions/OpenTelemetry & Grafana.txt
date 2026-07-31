@@ -1,0 +1,20 @@
+What are the Core Data Pillars in OpenTelemetry (Traces, Metrics, Logs, Baggage)?
+What is the difference between the OTel API and the OTel SDK?
+What is the difference between Auto-Instrumentation and Manual Instrumentation?
+What are Semantic Conventions in OpenTelemetry?
+How do you track Application Exceptions (span events, status codes)?
+What is Context Propagation in OpenTelemetry?
+What is the OpenTelemetry Collector (Receivers, Processors, Exporters)?
+What is the Data Pipeline Lifecycle in OpenTelemetry?
+What is the Memory Limiter Processor?
+What is the difference between Head-Based and Tail-Based Sampling?
+What is the difference between Classic Alerting and Unified Alerting in Grafana?
+What are Dashboard Variables and how do they affect Performance?
+What are Transformations in Grafana?
+What are Dashboard Links and Data Links?
+What is Grafana Provisioning?
+How do Loki, Mimir, and Tempo Integration work with Grafana?
+What are Log-to-Metric Alerts?
+What is Multi-Tenancy and Access Control in Grafana?
+How do you resolve Performance Lag and Crashes in Grafana?
+What is Grafana Alloy?

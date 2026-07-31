@@ -1,76 +1,64 @@
-Entry
-Q1: What is Docker?
-
-Junior
-Q2: What is the difference between CMD and ENTRYPOINT in a Dockerfile?
-Q3: What is the difference between a Docker image and a container?
-Q4: What are the various states that a Docker container can be in at any given point in time?
-Q5: What is Build Cache in Docker?
-Q6: What is Docker container?
-Q7: Can you remove (‘docker rm’) a container that is paused?
-Q8: When would you use ‘docker kill’ or ‘docker rm -f’?
-Q9: Is there a way to identify the status of a Docker container?
-Q10: What’s the difference between a repository and a registry?
-Q11: What are the most common instructions in Dockerfile?
-Q12: What is the difference between the "COPY" and "ADD" commands in a Dockerfile?
-Q13: What is Docker hub?
-Q14: How to build environment-agnostic systems with Docker?
-Q15: What does Containerization mean?
-Q16: How to link containers?
-Q17: What is the difference between ‘docker run’ and ‘docker create’?
-Q18: What is Docker image?
-Q19: Do I lose my data when the Docker container exits?
-Q20: What type of applications - Stateless or Stateful are more suitable for Docker Container?
-Q21: What is the difference between “expose” and “publish” in Docker?
-Q22: Explain basic Docker usage workflow
-
-Mid
-Q23: What happens if you add more than one CMD instruction to a Dockerfile?
-Q24: What is virtualisation?
-Q25: How will you monitor Docker in production?
-Q26: Docker Compose vs. Dockerfile - which is better?
-Q27: What is the preferred way of removing containers - ‘docker rm -f’ or ‘docker stop’ then followed by a ‘docker rm’?
-Q28: What is the difference between Docker Image and Layer?
-Q29: What is the default CPU limit set for a container?
-Q30: What is the purpose of "EXPOSE" command in Dockerfile?
-Q31: Can you create containers without their own PID namespace?
-Q32: What exactly do you mean by “Dockerized node”? Can this node be on-premises or in the cloud?
-Q33: How can we control the startup order of services in Docker compose?
-Q34: Could you explain what is Emulation?
-Q35: What is the difference between CMD and ENTRYPOINT in a Dockerfile?
-Q36: What is Hypervisor?
-Q37: What is Docker Swarm?
-Q38: Should I use Vagrant or Docker for creating an isolated environment?
-Q39: What is the difference between Kubernetes and Docker?
-Q40: Explain when to use Docker vs Docker Compose vs Docker Swarm vs Kubernetes
-Q41: Which problems does a Container Orchestration solve?
-Q42: Explain what are some Pods usage patterns?
-Q43: Explain a use case for Docker
-
-Senior
-Q44: How is Container different from a Virtual Machine?
-Q45: Why do we need Kubernetes (and other orchestrators) above containers?
-Q46: How virtualization works at low level?
-Q47: Can you explain dockerfile ONBUILD instruction?
-Q48: Can you run Docker containers natively on Windows?
-Q49: What is an orphan volume and how to remove it?
-Q50: How is Docker different from a virtual machine?
-Q51: Is it good practice to run stateful applications on Docker? What are the scenarios where Docker best fits in?
-Q52: What are the different kinds of namespaces available in a Container?
-Q53: What is Paravirtualization?
-Q54: What is the difference between Docker RUN, CMD and ENTRYPOINT?
-Q55: When you limit the memory for a container, does it reserve (guarantee) the memory?
-Q56: Is it possible to generate a Dockerfile from an image?
-
-Expert
-Q57: What's the difference between "pm2" and "pm2-runtime" and when to use one?
-Q58: Why did Docker jump from version 1.13 to 17.03?
-Q59: Can you explain a relationship between container runtime and container orchestration?
-Q60: How containers works at low level?
-Q61: Why Docker compose does not wait for a container to be ready before moving on to start next service in dependency order?
-Q62: Name some limitations of containers vs VM
-Q63: How does Docker run containers in non-Linux systems?
-Q64: How to use Docker with multiple environments?
-
-Junior: Code
-Q1: How do I transfer a Docker image from one machine to another one without using a repository, no matter private or public?
+What is Docker?
+What does Containerization mean?
+What is Docker image?
+What is Docker container?
+What is the difference between a Docker image and a container?
+What is Docker hub?
+What's the difference between a repository and a registry?
+What are the most common instructions in Dockerfile?
+What is the difference between the "COPY" and "ADD" commands in a Dockerfile?
+What is the difference between CMD and ENTRYPOINT in a Dockerfile?
+What is the purpose of "EXPOSE" command in Dockerfile?
+What is the difference between "expose" and "publish" in Docker?
+What is the difference between 'docker run' and 'docker create'?
+Can you remove ('docker rm') a container that is paused?
+When would you use 'docker kill' or 'docker rm -f'?
+Is there a way to identify the status of a Docker container?
+What are the various states that a Docker container can be in at any given point in time?
+Do I lose my data when the Docker container exits?
+How to link containers?
+Explain basic Docker usage workflow
+Explain a use case for Docker
+What type of applications - Stateless or Stateful are more suitable for Docker Container?
+What is Build Cache in Docker?
+How to build environment-agnostic systems with Docker?
+How do I transfer a Docker image from one machine to another one without using a repository, no matter private or public?
+What happens if you add more than one CMD instruction to a Dockerfile?
+What is virtualisation?
+What is Hypervisor?
+Could you explain what is Emulation?
+What is the difference between Docker Image and Layer?
+What is the default CPU limit set for a container?
+What is the preferred way of removing containers - 'docker rm -f' or 'docker stop' then followed by a 'docker rm'?
+Can you create containers without their own PID namespace?
+What exactly do you mean by "Dockerized node"? Can this node be on-premises or in the cloud?
+How can we control the startup order of services in Docker compose?
+Should I use Vagrant or Docker for creating an isolated environment?
+Docker Compose vs. Dockerfile - which is better?
+What is Docker Swarm?
+What is the difference between Kubernetes and Docker?
+Explain when to use Docker vs Docker Compose vs Docker Swarm vs Kubernetes
+Which problems does a Container Orchestration solve?
+Explain what are some Pods usage patterns?
+How will you monitor Docker in production?
+How is Container different from a Virtual Machine?
+How is Docker different from a virtual machine?
+Why do we need Kubernetes (and other orchestrators) above containers?
+Is it good practice to run stateful applications on Docker? What are the scenarios where Docker best fits in?
+What are the different kinds of namespaces available in a Container?
+What is Paravirtualization?
+How virtualization works at low level?
+What is the difference between Docker RUN, CMD and ENTRYPOINT?
+Can you explain dockerfile ONBUILD instruction?
+Can you run Docker containers natively on Windows?
+What is an orphan volume and how to remove it?
+When you limit the memory for a container, does it reserve (guarantee) the memory?
+Is it possible to generate a Dockerfile from an image?
+How containers works at low level?
+Can you explain a relationship between container runtime and container orchestration?
+Name some limitations of containers vs VM
+How does Docker run containers in non-Linux systems?
+How to use Docker with multiple environments?
+Why did Docker jump from version 1.13 to 17.03?
+Why Docker compose does not wait for a container to be ready before moving on to start next service in dependency order?
+What's the difference between "pm2" and "pm2-runtime" and when to use one?

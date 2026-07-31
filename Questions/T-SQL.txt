@@ -1,0 +1,52 @@
+Explain what are the differences between SQL and T-SQL?
+Mention what is TOP in T-SQL?
+What is the difference between Data Definition Language (DDL) and Data Manipulation Language (DML)?
+What’s the difference between TRUNCATE and DELETE in SQL?
+How does TRUNCATE and DELETE operations effect Identity?
+What are the two commands to remove all of the data from a table? Are there any implications with the specific commands?
+Could you explain the difference between Primary Key and Unique Index?
+When should I use primary key or index?
+What do Clustered and Non Clustered index actually mean?
+What’s the difference between a Local Temp Table and a Global Temp Table?
+Is it possible to rename a database? If so, how would you rename the database?
+Provide an example of Left Outer Join with Exclusions
+Mention what are the Join Types in TSQL?
+What is the difference between PARTITION BY and GROUP BY?
+Mention what is Subquery?
+How do I UPDATE from a SELECT in SQL Server?
+How do I perform an IF…THEN in an SQL SELECT?
+What is a Cursor and how does it work?
+What are the advantages of using Stored Procedures?
+Explain Function vs. Stored Procedure in SQL Server
+Insert results of a stored procedure into a temporary table
+What are the practical differences between COALESCE() and ISNULL('')?
+How can you delete duplicate records in a table with no primary key?
+How can you capture the length of a column when it is a Text, NText and/or Image data type?
+Name 5 commands that can be used to manipulate text in T-SQL code
+Name some types of Triggers
+Mention what are the limitations of IDENTITY column?
+What is the use of GO in Transact SQL?
+What is a Linked Server?
+Is there a difference between T-SQL linked server and a synonym?
+In what version of SQL Server were synonyms released, what do synonyms do and when could you make the case for using them?
+What’s the difference between Azure SQL Database and Azure SQL Managed Instance?
+What is TSQL Window functions?
+Mention what are ROLLUP and CUBE in T-SQL?
+What is a Filegroup?
+What are Row Constructors?
+What are bitwise operators and what is the value from a database design perspective?
+What are types of XML indexes in SQL Server?
+What are the best practices for using a GUID as a primary key, specifically regarding performance?
+Why you should never use GUIDs as part of clustered index?
+What are the three ways that Dynamic SQL can be issued?
+Is it possible to import data directly from T-SQL commands without using SQL Server Integration Services? If so, what are the commands?
+Mention what does the T-SQL command IDENT_CURRENT does?
+What is the difference between EXEC vs sp_executesql?
+What is the native system stored procedure to issue a command against all databases?
+What two commands were released in SQL Server 2005 related to comparing data sets from two or more separate SELECT statements?
+What are the new error handling commands introduced with SQL Server 2005 and beyond?
+Is it correct/best practice to have the TRY/CATCH block inside the transaction or should the transaction be inside the TRY block?
+Mention what is uncommittable transactions?
+Mention what is OFFSET-FETCH filter in tsql?
+What is Blocking?
+From a T-SQL perspective, how would you prevent T-SQL code from running on a production SQL Server?

@@ -1,37 +1,25 @@
-Entry
-Q1: How to unit test an object with database queries?
-Q2: What is the difference between Unit Tests and Functional Tests?
-Q3: What is Mocking?
-
-Junior
-Q4: Should unit tests be written for Getter and Setters?
-Q5: What’s the difference between Mock an object or Spy on it?
-
-Mid
-Q6: What do I lose by adopting TDD? What are the disadvantages of Test Driven Development?
-Q7: Should I Unit Test private methods or only public ones?
-Q8: What is the fundamental value of Unit Tests vs Integration Tests?
-Q9: What’s the difference between Unit Tests and Integration Tests?
-Q10: Name some Unit Testing benefits for devs that you personally experienced
-Q11: When and where should I use Mocking?
-Q12: How would you unit test private methods?
-Q13: How can I unit test a GUI?
-Q14: Is writing Unit Tests worth it for already exciting functionality?
-Q15: What is a reasonable Code Coverage % for unit tests (and why)?
-
-Senior
-Q16: Can Unit Testing be successfully added into an existing production project? If so, how and is it worth it?
-Q17: Explain what is Arrange-Act-Assert pattern?
-Q18: What are best practices for Unit Testing methods that use cache heavily?
-Q19: What’s the best strategy for Unit-Testing database-driven applications?
-Q20: What is Unit test, Integration Test, Smoke test, Regression Test and what are the differences between them?
-Q21: What is the best way to unit test a method that doesn't return anything (void)?
-
-Expert
-Q22: How do I test a private function or a class that has private methods, fields or inner classes?
-Q23: Is Unit Testing worth the effort?
-
-
-
-Mid: Code
-Q1: Can you provide and example of a common Mocking scenario?
+What is Mocking?
+What is the difference between Unit Tests and Functional Tests?
+Should unit tests be written for Getter and Setters?
+What’s the difference between Mock an object or Spy on it?
+How to unit test an object with database queries?
+What’s the difference between Unit Tests and Integration Tests?
+What is the fundamental value of Unit Tests vs Integration Tests?
+Name some Unit Testing benefits for devs that you personally experienced
+When and where should I use Mocking?
+Can you provide and example of a common Mocking scenario?
+What is a reasonable Code Coverage % for unit tests (and why)?
+How can you reach 80% code coverage quickly, and what role can AI tools play in generating unit tests?
+Is writing Unit Tests worth it for already exciting functionality?
+What do I lose by adopting TDD? What are the disadvantages of Test Driven Development?
+Should I Unit Test private methods or only public ones?
+How would you unit test private methods?
+How can I unit test a GUI?
+What is the best way to unit test a method that doesn't return anything (void)?
+Explain what is Arrange-Act-Assert pattern?
+What is Unit test, Integration Test, Smoke test, Regression Test and what are the differences between them?
+What’s the best strategy for Unit-Testing database-driven applications?
+What are best practices for Unit Testing methods that use cache heavily?
+Can Unit Testing be successfully added into an existing production project? If so, how and is it worth it?
+How do I test a private function or a class that has private methods, fields or inner classes?
+Is Unit Testing worth the effort?

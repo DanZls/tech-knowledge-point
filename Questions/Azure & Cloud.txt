@@ -1,0 +1,79 @@
+Can you give a Microsoft Azure overview (IaaS/PaaS/SaaS, resource groups, pay-as-you-go)?
+What is the difference between an Azure Tenant and Azure Subscription?
+What are ARM Templates in Azure?
+How can I test my ARM template before deploying it?
+Compare ARM Templates vs Azure CLI for Azure deployments
+What would you use: Azure CLI or PowerShell? Explain.
+How to define an Environment Variable on Azure using Azure CLI?
+Why are Azure Resource Groups associated with a specific region?
+What is Azure CDN (Content Delivery Network) and why to use it?
+Name some advantages and disadvantages of Azure CDN
+What is the difference between Azure App Service and a Virtual Machine?
+What is the difference between Azure API Apps, Logic Apps, Web Apps and Azure Functions?
+What is the difference between an API App and a Web App?
+What is the difference between an Azure Web App and an Azure Web Role?
+How is Azure App Service different from Azure Functions?
+What is equivalent of a Windows Service on Azure?
+What is WebJob in Azure?
+What are On Demand WebJobs aka. Scheduled WebJobs aka. Triggered WebJobs in Azure?
+Compare Azure WebJobs vs Azure Function. When to use one?
+When to choose Worker Role vs Web Jobs on Azure?
+What are Web Role, Worker Role and VM Role in Azure?
+Is there a way to view deployed files in Azure?
+What is Azure Storage (Blob, Files, Queue, Table, redundancy levels)?
+What are the differences between New and Classic Storage Accounts in Azure?
+Explain what is the difference between Block Blobs, Append Blobs and Page Blobs in Azure?
+What to use: many small Azure Storage Blob containers vs one really large container with tons of blobs?
+How would you choose between Azure Blob Storage vs. Azure File Service?
+When shall we use Azure Table Storage over Azure SQL?
+When should I use Azure SQL vs Azure Table Storage?
+How would you choose between Azure Table Storage vs MongoDB?
+What is Azure SQL Database?
+What's the difference between Azure SQL Database and Azure SQL Managed Instance?
+Cosmos DB vs Azure Table Storage vs Azure SQL Database: what to choose?
+What is RU in Cosmos DB?
+What is the rule of thumb for choosing the ideal partitioning key in CosmosDB?
+What's Logical Partition in CosmosDB?
+What's the difference between Logical and Physical partitions in Cosmos DB?
+What does "Cosmos DB automatically indexes the documents" mean? Explain.
+Name some pros and cons of using GUID as Partition Key in Cosmos DB
+How to do a transaction with two collections on Azure CosmosDB?
+Explain the use of Bounded Staleness consistency model in Cosmos DB
+Explain what is Optimistic Concurrency Control (OCC) and how is it implemented in Cosmos DB?
+How would you choose/design a muti-tenant architecture with Azure Cosmos DB?
+When would you use Azure Storage Queues vs Azure Service Bus?
+What is the difference between Azure Queue Storage and Azure Service Bus with regards to dead letter queues & poison messages?
+Explain the difference between Event vs Message Services in the context of Azure Services?
+When would you use Azure Event Grid vs Azure Service Bus and vice versa?
+What are main considerations when creating Azure Service Bus queues/topics?
+Explain the difference between Scheduled vs Deferred messages in Azure Service Bus
+Explain the difference between At-most-once vs At-least-once message processing in Azure Service Bus
+Explain the use of Express Entities in Azure Service Bus
+What data schema shall you use for Event Grid events?
+Whay should you keep Azure Event Grid events as small as possible?
+How would you get Azure Event Grid events in Angular/React client?
+Explain the use of Claim Check Pattern in Azure Event Grid
+What is Azure Web PubSub Service? When shall you use it?
+What are pros and cons of Azure Web PubSub vs SignalR?
+Using Azure Functions, can I reference and use NuGet packages in my C# function?
+What are Azure Functions (serverless, triggers, bindings, scaling, execution time limits)?
+What is Azure Key Vault?
+What is difference between Keys and Secrets in Azure Key Vault?
+What is the difference between Azure AD App Application Permissions vs Delegated Permissions?
+What is Microsoft Entra ID / Azure AD (SSO, Managed Identities, App Registrations, Conditional Access)?
+What is the difference between Azure Active Directory and Azure Active Directory Domain Services?
+What is the difference between Enterprise Application and App Registration in Azure?
+What is Azure DevOps (Boards, Repos, Pipelines, Artifacts)?
+How do you deploy .NET Applications to Azure (deployment slots, configuration management)?
+How do you deploy a Zero-Downtime Application Update (deployment slots, blue-green deployment)?
+What is Azure Monitoring and Application Insights (distributed tracing, KQL)?
+How do you log API response time, and what is the value of logging beyond error tracking?
+How do you monitor and diagnose performance on Azure (App Service + auto-scale)?
+How do you design enterprise logging and monitoring on Azure?
+What are memory leaks in ASP.NET Core — what they are and how they happen?
+How would you troubleshoot a production crash after deployment (rollback, log inspection, config/dependency checks)?
+How would you investigate sudden production performance degradation?
+How would you diagnose sudden API response-time spikes with Application Insights?
+The SQL is fast but the API is slow — how do you troubleshoot?
+How would you move data from RDS to Azure Blob Storage?
+How would you deploy a full-stack app on Azure for scalability and reliability?

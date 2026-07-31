@@ -1,35 +1,26 @@
-Entry
-Q1: What is WebSockets?
-
-Junior
-Q2: Why use WebSocket over HTTP?
-Q3: Explain what is Server-Sent Events (SSE) / EventSource?
-Q4: What is Short Polling and what problems do we have with it?
-Q5: What do you mean by lower latency interaction?
-
-Mid
-Q6: Name and explain what different communication techniques on the web do you know?
-Q7: WebSockets vs Rest API for real time data? Which to choose?
-Q8: Explain what is Long Polling?
-Q9: Mention some advantages of SSE over WebSockets
-Q10: Explain key features of Socket.io
-Q11: What is the difference between WebSockets vs. Server-Sent Events/EventSource?
-
-Senior
-Q12: What are the differences between Socket.io and WebSockets?
-Q13: What is Sec-WebSocket-Key for?
-Q14: Why would you choose Server-Sent Events over WebSockets?
-Q15: Explain how does WebSockets protocol work under the hood
-Q16: What is WebSockets Frame?
-Q17: When to use WebRTC over WebSockets?
-Q18: Would WebSockets be able to handle 1,000,000 concurrent connections?
-Q19: Can you suggest how to load balance Web Sockets?
-Q20: What are pros and cons of Azure Web PubSub vs SignalR?
-Q21: What is the fundamental difference between WebSockets and pure TCP?
-
-Expert
-Q22: What is the mask in a WebSocket frame?
-Q23: Explain why CDN (in)availability may be a problem for using WebSockets?
-Q24: How to use CHAP Authentication (Challenge Response Authentication) for webSockets?
-Q25: How would you secure WebSockets communication on your project?
-Q26: How can WebSockets be better than Long-Polling in term of performance?
+What is WebSockets?
+Why use WebSocket over HTTP?
+What do you mean by lower latency interaction?
+What is Short Polling and what problems do we have with it?
+Explain what is Long Polling?
+Explain what is Server-Sent Events (SSE) / EventSource?
+Name and explain what different communication techniques on the web do you know?
+What is the difference between WebSockets vs. Server-Sent Events/EventSource?
+Mention some advantages of SSE over WebSockets
+Why would you choose Server-Sent Events over WebSockets?
+How can WebSockets be better than Long-Polling in term of performance?
+WebSockets vs Rest API for real time data? Which to choose?
+Explain key features of Socket.io
+What are the differences between Socket.io and WebSockets?
+What is the fundamental difference between WebSockets and pure TCP?
+Explain how does WebSockets protocol work under the hood
+What is WebSockets Frame?
+What is the mask in a WebSocket frame?
+What is Sec-WebSocket-Key for?
+When to use WebRTC over WebSockets?
+What are pros and cons of Azure Web PubSub vs SignalR?
+How to use CHAP Authentication (Challenge Response Authentication) for webSockets?
+How would you secure WebSockets communication on your project?
+Explain why CDN (in)availability may be a problem for using WebSockets?
+Would WebSockets be able to handle 1,000,000 concurrent connections?
+Can you suggest how to load balance Web Sockets?

@@ -1,25 +1,18 @@
-Junior
-Q1: What is an Entity in Clean Architecture?
-Q2: What do you understand by Clean Architecture approach?
-Q3: How you pass data between modules where they have different models in Clean Architecture?
-Q4: Explain the Data Flow in Clean Architecture
-
-Mid
-Q5: Explain what is Interface Segregation Principle (ISP) in Clean Architecture and what are some of its benefits?
-Q6: What do you mean by Clean Architecture is Screaming?
-Q7: What are Use Cases in Clean Architecture?
-Q8: Explain what is Dependency Rule in Clean Architecture
-Q9: Explain the purpose of Clean Architecture Inner and Outer layers
-Q10: What is the difference between the Clean and the N-Tier Architectures?
-Q11: How shall we integrate DB Layer access in Clean Architecture?
-Q12: Where should I implement the external API calls logic in Clean Architecture?
-Q13: Explain the control flow of a user interacting with Clean Architecture components?
-Q14: What is the role of the Controller in Clean Architecture?
-Q15: What is the role of the Presenter in Clean Architecture?
-
-Senior
-Q16: Compare Onion vs Clean vs Hexagonal Architectures
-Q17: What is the difference between Request/Response Models and Entities in Clean Architecture?
-
-Expert
-Q18: How and where do you use transactions in the Clean Architecture?
+What do you understand by Clean Architecture approach?
+What is an Entity in Clean Architecture?
+Explain the Data Flow in Clean Architecture
+How you pass data between modules where they have different models in Clean Architecture?
+What are Use Cases in Clean Architecture?
+What is the role of the Controller in Clean Architecture?
+What is the role of the Presenter in Clean Architecture?
+Explain the purpose of Clean Architecture Inner and Outer layers
+Explain what is Dependency Rule in Clean Architecture
+Explain what is Interface Segregation Principle (ISP) in Clean Architecture and what are some of its benefits?
+What do you mean by Clean Architecture is Screaming?
+What is the difference between the Clean and the N-Tier Architectures?
+How shall we integrate DB Layer access in Clean Architecture?
+Where should I implement the external API calls logic in Clean Architecture?
+Explain the control flow of a user interacting with Clean Architecture components?
+Compare Onion vs Clean vs Hexagonal Architectures
+What is the difference between Request/Response Models and Entities in Clean Architecture?
+How and where do you use transactions in the Clean Architecture?

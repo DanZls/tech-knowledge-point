@@ -1,0 +1,55 @@
+What is the need for DevOps?
+Are you more Dev or Ops?
+Explain what is DevOps ?
+What is the most important thing DevOps helps us achieve?
+What is meant by Continuous Integration?
+What is Kubernetes? Why organizations are using it?
+Mention what are the key aspects or principle behind DevOps?
+Can we consider DevOps as an Agile methodology?
+What are the advantages of DevOps?
+How is DevOps different from Agile/SDLC?
+What is DevOps engineer's duty with regards to Agile development?
+Which are the top DevOps tools? Which tools have you worked on?
+What is the function of CI (Continuous Integration) server?
+What are the success factors for Continuous Integration?
+Why is Continuous Monitoring necessary?
+What is the role of a Configuration Management tool in DevOps?
+What does Containerization mean?
+What's the next thing you would automate in your current workflow?
+How have you handled failed deployments?
+What is post Mortem Meetings?
+What is the difference between a Step, an Action, and a Job?
+How is Data Persistence Between Jobs achieved (artifacts)?
+How do you troubleshoot and debug a Failed Workflow?
+How do all DevOps tools work together?
+What are the differences between Continuous Integration, Continuous Delivery, and Continuous Deployment?
+What is a Matrix Strategy and what does Fail-Fast mean?
+What are Reusable Workflows vs Composite Actions?
+How can you optimize Workflow Execution and use Caching effectively?
+What are Concurrency Groups used for?
+What are GitHub Environments and how do they help with security?
+What are the risks of using Self-Hosted Runners?
+What is the difference between Kubernetes and Docker?
+Which problems does a Container Orchestration solve?
+Explain a use case for Docker
+What is Chef?
+Classify Cloud Platforms by category
+What do you know about Serverless model?
+Explain Blue-Green deployment technique
+What's the difference between a Blue/Green Deployment and a Rolling Deployment?
+How Do you update a live heavy traffic site with minimum or Zero Down Time?
+If something breaks in production, how do you know about it?
+Tell me about the worst-run/best-run outage you've been a part of. What made it bad/well-run?
+How would you prepare for a migration from one platform to another?
+How would you make key aspects of a software system traceable?
+What is the difference between Resource Allocation and Resource Provisioning?
+How would you assess how deployable a system is?
+What is Vagrant and what is it used for?
+What is Continuous Monitoring?
+Why Continuous Integration is important for Agile?
+How is Container different from a Virtual Machine?
+How would you deploy software to 5000 nodes?
+How do you secure Authentication to Cloud Providers (OpenID Connect / OIDC)?
+How would you introduce Continuous Delivery in a successful, huge company for which the change from Waterfall to Continuous Delivery would be not trivial, because of the size and complexity of the business?
+What is Canary Releasing?
+Can you explain a relationship between container runtime and container orchestration?

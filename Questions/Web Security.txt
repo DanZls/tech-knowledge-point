@@ -1,80 +1,65 @@
-Entry
-Q1: What is a DDOS attack?
-Q2: What is “Vulnerability”?
-Q3: What is SQL injection?
-Q4: What is a botnet?
-Q5: What is the difference between Authentication vs Authorization?
-Q6: What is Security Testing?
-Q7: List the various methodologies in Security testing?
-
-Junior
-Q8: What is Content Security Policy?
-Q9: What is Cross Site Scripting (XSS)?
-Q10: How can we Protect Web Applications From Forced Browsing?
-Q11: Explain what threat arises from not flagging HTTP cookies with tokens as secure?
-Q12: What is an SSL Certificate?
-Q13: How to mitigate the SQL Injection risks?
-Q14: What is Session Hijacking?
-Q15: Mention what flaw arises from session tokens having poor randomness across a range of values?
-Q16: What is DOM-based XSS?
-Q17: What is CORS and how to enable one?
-Q18: What is Intrusion Detection System (IDS)?
-Q19: What is Cross-Site Scripting (XSS)?
-Q20: Why is the Root Certificate important?
-Q21: What is impersonation?
-Q22: How can I prevent XSS?
-Q23: Apart from mailing links of error pages, are there other methods of exploiting XSS?
-Q24: Can XSS be prevented without modifying the source code?
-Q25: List the attributes of Security Testing
-Q26: How to mitigate the risk of Sensitive Data Exposure?
-
-Mid
-Q27: Name the elements of PKI
-Q28: What is the difference between IDS and firewalls?
-Q29: List Top 10 OWASP Vulnerabilities
-Q30: Mention what threat can be avoided by having unique usernames produced with a high degree of entropy?
-Q31: What information can an attacker steal using XSS?
-Q32: What is Cross-Site Request Forgery?
-Q33: What is PKI?
-Q34: What is Cross-site request forgery and how to mitigate it?
-Q35: Could you explain the difference between penetration testing and other forms of security testing?
-Q36: What Is Failure to Restrict URL Access?
-Q37: What is the difference between encryption, encoding, and hashing?
-Q38: How to mitigate the risk of Weak authentication and session management?
-Q39: What is HTTP Public Key Pinning and when to use it?
-Q40: Mention what happens when an application takes user inserted data and sends it to a web browser without proper validation and escaping?
-
-Senior
-Q41: What is a Honeypot?
-Q42: What is ClickJacking?
-Q43: Is it possible to decrypt MD5 hashes? Explain.
-Q44: If you can decode JWT, how are they secure?
-Q45: How to ensure that a file can only be decrypted after a specific date?
-Q46: What's the difference between OpenID and OAuth?
-Q47: How does SSL/TLS work?
-Q48: Explain briefly CORS (Cross-Origin Resource Sharing)?
-Q49: What is a Bug Bounty?
-Q50: What is Stored XSS?
-Q51: What is Reflected XSS?
-Q52: What are X-Frame-Options?
-Q53: What is Cross Site Tracing (XST)? How can it be prevented?
-Q54: How to Prevent Breaches Due to Failure to Restrict URL Access?
-Q55: What is HSTS?
-Q56: What are the types of XSS?
-
-Expert
-Q57: Mention what is the basic design of OWASP ESAPI?
-Q58: How to use Content Security Policy (CSP) against clickjacking?
-Q59: How to use CHAP Authentication (Challenge Response Authentication) for webSockets?
-Q60: How would you secure WebSockets communication on your project?
-Q61: What is Content Security Policy (CSP)?
-Q62: What is a Salt and How Does It Make Password Hashing More Secure?
-
-
-
-Junior: Code
-Q1: Provide some "robots.txt" anti-pattern usage
-
-Senior: Code
-Q2: How to check if HSTS is enabled?
-Q3: How come that hash values are not reversible?
+What is the difference between Authentication vs Authorization?
+What is "Vulnerability"?
+What is a DDOS attack?
+What is a botnet?
+What is SQL injection?
+How to mitigate the SQL Injection risks?
+What is Cross Site Scripting (XSS)?
+What is Cross-Site Scripting (XSS)?
+How can I prevent XSS?
+Can XSS be prevented without modifying the source code?
+Apart from mailing links of error pages, are there other methods of exploiting XSS?
+What is DOM-based XSS?
+What is Stored XSS?
+What is Reflected XSS?
+What are the types of XSS?
+What information can an attacker steal using XSS?
+What is Cross-Site Request Forgery?
+What is Cross-site request forgery and how to mitigate it?
+What is Session Hijacking?
+Mention what flaw arises from session tokens having poor randomness across a range of values?
+Explain what threat arises from not flagging HTTP cookies with tokens as secure?
+Mention what threat can be avoided by having unique usernames produced with a high degree of entropy?
+How to mitigate the risk of Weak authentication and session management?
+What is an SSL Certificate?
+Why is the Root Certificate important?
+How does SSL/TLS work?
+What is CORS and how to enable one?
+Explain briefly CORS (Cross-Origin Resource Sharing)?
+What is Content Security Policy?
+What is Content Security Policy (CSP)?
+How to use Content Security Policy (CSP) against clickjacking?
+What is ClickJacking?
+What is a Honeypot?
+What is Intrusion Detection System (IDS)?
+What is the difference between IDS and firewalls?
+What is impersonation?
+How can we Protect Web Applications From Forced Browsing?
+What Is Failure to Restrict URL Access?
+How to Prevent Breaches Due to Failure to Restrict URL Access?
+Mention what happens when an application takes user inserted data and sends it to a web browser without proper validation and escaping?
+How to mitigate the risk of Sensitive Data Exposure?
+What is the difference between encryption, encoding, and hashing?
+What is a Salt and How Does It Make Password Hashing More Secure?
+Is it possible to decrypt MD5 hashes? Explain.
+How come that hash values are not reversible?
+What is Security Testing?
+List the various methodologies in Security testing?
+List the attributes of Security Testing
+List Top 10 OWASP Vulnerabilities
+Could you explain the difference between penetration testing and other forms of security testing?
+What is a Bug Bounty?
+Provide some "robots.txt" anti-pattern usage
+Name the elements of PKI
+What is PKI?
+What's the difference between OpenID and OAuth?
+If you can decode JWT, how are they secure?
+What is HTTP Public Key Pinning and when to use it?
+What is HSTS?
+How to check if HSTS is enabled?
+What are X-Frame-Options?
+What is Cross Site Tracing (XST)? How can it be prevented?
+How to ensure that a file can only be decrypted after a specific date?
+How to use CHAP Authentication (Challenge Response Authentication) for webSockets?
+How would you secure WebSockets communication on your project?
+Mention what is the basic design of OWASP ESAPI?

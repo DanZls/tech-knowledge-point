@@ -1,81 +1,68 @@
-Entry
-Q1: What are the main categories of Design Patterns?
-Q2: What is Design Patterns and why anyone should use them?
-Q3: What is Singleton pattern?
-Q4: What is a pattern?
-
-Junior
-Q5: Why would you want to use a Repository Pattern with an ORM?
-Q6: What are some benefits of Repository Pattern?
-Q7: Name types of Design Patterns?
-Q8: What is Null Object pattern?
-Q9: What is Dependency Injection?
-Q10: What is Proxy pattern?
-Q11: What is Inversion of Control?
-Q12: What is Iterator pattern?
-Q13: What is State pattern?
-Q14: What is Template pattern?
-Q15: What is Filter pattern?
-Q16: What is Builder pattern?
-Q17: What is Strategy pattern?
-Q18: Can we create a clone of a singleton object?
-Q19: What is Factory pattern?
-
-Mid
-Q20: Is Unit Of Work equals Transaction? Or it is more than that?
-Q21: What is Decorator pattern?
-Q22: What is Memento pattern?
-Q23: What is Unit Of Work?
-Q24: What is Mediator pattern?
-Q25: What are some reasons to use Repository Pattern?
-Q26: What is an Aggregate Root in the context of Repository Pattern?
-Q27: Can you give any good explanation what is the difference between Proxy and Decorator?
-Q28: When should I use Active Record vs Repository Pattern?
-Q29: What are the drawbacks to the ActiveRecord pattern?
-Q30: In OOP, what is the difference between the Repository Pattern and a Service Layer?
-Q31: What are some advantages of using Dependency Injection?
-Q32: What is the Command and Query Responsibility Segregation (CQRS) Pattern?
-Q33: Name some benefits of CQRS Pattern
-Q34: Describe what is the Event Sourcing Pattern
-Q35: Explain the use of Claim Check Pattern in Azure Event Grid
-Q36: What are the difference between a Static class and a Singleton class?
-Q37: What is Adapter Pattern?
-Q38: What does program to interfaces, not implementations mean?
-Q39: What is Prototype pattern?
-Q40: What is Interpreter pattern?
-Q41: What is Command pattern?
-Q42: What is Facade pattern?
-Q43: What is the Chain of Responsibility pattern?
-Q44: What is Abstract Factory pattern?
-Q45: When should I use Composite design pattern?
-Q46: What is Observer pattern?
-Q47: What is Bridge pattern?
-
-Senior
-Q48: Explain usage of Service Locator Pattern
-Q49: What are some disadvantages of Dependency Injection?
-Q50: What is the difference between Strategy design pattern and State design pattern?
-Q51: What is relationship between Repository and Unit of Work?
-Q52: What is Flyweight pattern?
-Q53: Explain what is Composition over Inheritance?
-Q54: Why shouldn't I use the Repository Pattern with Entity Framework?
-Q55: How is Bridge pattern is different from Adapter pattern?
-Q56: How should I be grouping my Repositories when using Repository Pattern?
-Q57: Is Repository Pattern as same as Active Record Pattern?
-Q58: What will you choose: Repository Pattern or "smart" business objects?
-Q59: Could you explain some benefits of Repository Pattern?
-Q60: Why would I ever use a Chain of Responsibility over a Decorator?
-Q61: When would you use the Builder Pattern? Why not just use a Factory Pattern?
-
-Expert
-Q62: What's the difference between the Dependency Injection and Service Locator patterns?
-Q63: What is the difference between the Template patterns and the Strategy pattern?
-Q64: Explain difference between the Facade, Proxy, Adapter and Decorator design patterns?
-Q65: Could you explain the difference between Façade vs. Mediator?
-Q66: Can we use the CQRS without the Event Sourcing?
-Q67: Could you explain what is the Deadly Diamond of Death?
-
-
-
-Mid: Code
-Q1: How should I add an object into a collection maintained by Aggregate Root?
+What is a pattern?
+What is Design Patterns and why anyone should use them?
+What are the main categories of Design Patterns?
+Name types of Design Patterns?
+What is Singleton pattern?
+Can we create a clone of a singleton object?
+What is Factory pattern?
+What is Builder pattern?
+What is Strategy pattern?
+What is Iterator pattern?
+What is State pattern?
+What is Template pattern?
+What is Filter pattern?
+What is Null Object pattern?
+What is Proxy pattern?
+What is Dependency Injection?
+What is Inversion of Control?
+Why would you want to use a Repository Pattern with an ORM?
+What are some benefits of Repository Pattern?
+What is Decorator pattern?
+What is Memento pattern?
+What is Mediator pattern?
+What is Adapter pattern?
+What is Prototype pattern?
+What is Interpreter pattern?
+What is Command pattern?
+What is Facade pattern?
+What is the Chain of Responsibility pattern?
+What is Abstract Factory pattern?
+What is Observer pattern?
+What is Bridge pattern?
+What does program to interfaces, not implementations mean?
+What are the difference between a Static class and a Singleton class?
+Is Unit Of Work equals Transaction? Or it is more than that?
+What is Unit Of Work?
+What are some reasons to use Repository Pattern?
+What is an Aggregate Root in the context of Repository Pattern?
+How should I add an object into a collection maintained by Aggregate Root?
+Can you give any good explanation what is the difference between Proxy and Decorator?
+When should I use Active Record vs Repository Pattern?
+What are the drawbacks to the ActiveRecord pattern?
+In OOP, what is the difference between the Repository Pattern and a Service Layer?
+What are some advantages of using Dependency Injection?
+When should I use Composite design pattern?
+What is the Command and Query Responsibility Segregation (CQRS) Pattern?
+Name some benefits of CQRS Pattern
+Describe what is the Event Sourcing Pattern
+Explain the use of Claim Check Pattern in Azure Event Grid
+Explain usage of Service Locator Pattern
+What are some disadvantages of Dependency Injection?
+What is the difference between Strategy design pattern and State design pattern?
+What is relationship between Repository and Unit of Work?
+What is Flyweight pattern?
+Explain what is Composition over Inheritance?
+Why shouldn't I use the Repository Pattern with Entity Framework?
+How is Bridge pattern is different from Adapter pattern?
+How should I be grouping my Repositories when using Repository Pattern?
+Is Repository Pattern as same as Active Record Pattern?
+What will you choose: Repository Pattern or "smart" business objects?
+Could you explain some benefits of Repository Pattern?
+Why would I ever use a Chain of Responsibility over a Decorator?
+When would you use the Builder Pattern? Why not just use a Factory Pattern?
+What's the difference between the Dependency Injection and Service Locator patterns?
+What is the difference between the Template patterns and the Strategy pattern?
+Explain difference between the Facade, Proxy, Adapter and Decorator design patterns?
+Could you explain the difference between Façade vs. Mediator?
+Can we use the CQRS without the Event Sourcing?
+Could you explain what is the Deadly Diamond of Death?

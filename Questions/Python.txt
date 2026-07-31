@@ -1,0 +1,74 @@
+What are the built-in types available In Python?
+Name some characteristics of Python?
+Name some benefits of Python
+How do I modify a string?
+What's the difference between "lists" and "tuples"?
+When to use a "tuple" vs "list" vs "dictionary" in Python?
+What is Negative Index in Python?
+What are local variables and global variables in Python?
+What are the rules for local and global variables in Python?
+How the string does get converted to a number?
+Does Python have a switch-case statement?
+What is Lambda Functions in Python?
+Why would you use the "pass" statement?
+Explain what is Linear (Sequential) Search and when may we use one?
+What is a None value?
+What is the function of "self"?
+What does this stuff mean: "*args", "**kwargs"? Why would we use it?
+What's the difference between the list methods "append()" and "extend()"?
+Explain how to use Slicing in Python?
+What is the difference between "range" and "xrange" functions in Python?
+What is the difference between "range" and "xrange"? How has this changed over time?
+What are the key differences between Python 2 and 3?
+Is it possible to have static methods in Python?
+What is the python with statement designed for?
+How can you share global variables across modules?
+How can I create a copy of an object in Python?
+What does an "x = y or z" assignment do in Python?
+What is a Callable?
+What are virtualenvs?
+What are the Wheels and Eggs? What is the difference?
+What are immutable objects in Python?
+What is introspection/reflection and does Python support it?
+What are Decorators in Python?
+What are descriptors?
+What are the Dunder/Magic/Special methods in Python? Name a few.
+Is there a tool to help find bugs or perform static analysis?
+What is Monkey Patching and is it ever a good idea?
+What does the Python "nonlocal" statement do (in Python 3.0 and later)?
+Explain the UnboundLocalError exception and how to avoid it?
+What is Pickling and Unpickling?
+Explain what is Interpolation Search
+What is a Jump (or Block) Search?
+Explain how does Python memory management work?
+What is the difference between a function decorated with "@staticmethod" and one decorated with "@classmethod"?
+What is the difference between "@staticmethod" and "@classmethod"?
+What is the difference between deep and shallow copy?
+Can you explain Closures (as they relate to Python)?
+Why aren't Python nested functions called closures?
+Why are default values shared between objects?
+What is Monkey Patching? How to use it in Python?
+How is memory managed in Python?
+What's the difference between a Python module and a Python package?
+What is the purpose of the single underscore "_" variable in Python?
+Why are Python's private methods not actually private?
+What is the difference between old style and new style classes in Python?
+What are metaclasses in Python?
+Why would you use metaclasses?
+What is MRO in Python? How does it work?
+How is "set()" implemented internally?
+Explain how you reverse a generator?
+What are the advantages of NumPy over regular Python lists?
+How to work with transitive dependencies?
+What is Cython?
+What is GIL?
+Why Python (CPython and others) uses the GIL?
+What is an alternative to GIL?
+What is a global interpreter lock (GIL) and why is it an issue?
+Is it a good idea to use multi-thread to speed your Python code?
+Why use "else" in "try/except" construct in Python?
+Describe Python's Garbage Collection mechanism in brief
+Why isn't all memory freed when Python exits?
+What does Python optimisation ("-O" or "PYTHONOPTIMIZE") do?
+Is there any downside to the "-O" flag apart from missing on the built-in debugging information?
+Is there a simple, elegant way to define singletons?

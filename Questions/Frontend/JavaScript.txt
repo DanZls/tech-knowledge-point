@@ -1,101 +1,92 @@
-Entry
-Q1: What is the "object" type?
-Q2: What is "typeof" operator?
-Q3: Explain arrays in JavaScript
-Q4: Explain equality in JavaScript
-Q5: What is Scope in JavaScript?
-
-Junior
-Q6: What's the difference between Host objects and Native objects?
-Q7: What's the difference between "throw Error('msg')" vs "throw new Error('msg')"?
-Q8: Explain the same-origin policy with regards to JavaScript.
-Q9: What is the difference between "==" and "===" ?
-Q10: Is there anyway to force using strict mode in Node.js?
-Q11: Why would you use something like the "load" event? Does this event have disadvantages? Do you know any alternatives, and why would you use those?
-Q12: What is "strict mode"?
-Q13: What is Callback Hell and what is the main cause of it?
-Q14: What does "use strict" do?
-Q15: Explain event bubbling and how one may prevent it
-Q16: What are some of the advantages/disadvantages of writing JavaScript code in a language that compiles to JavaScript?
-Q17: What language constructions do you use for iterating over object properties and array items?
-Q18: Explain Values and Types in JavaScript
-Q19: Explain "Null" and "Undefined" in JavaScript
-Q20: Explain what is Linear (Sequential) Search and when may we use one?
-Q21: Why is it, in general, a good idea to leave the global scope of a website as-is and never touch it?
-Q22: What is "let" keyword in JavaScript?
-Q23: Explain what is Binary Search
-Q24: What is a Polyfill?
-Q25: What is the motivation for bringing "Symbol" to ES6?
-Q26: What's the difference between using "let" and "var" to declare a variable in ES6?
-
-Mid
-Q27: What is generator in JS?
-Q28: Why is extending built-in JavaScript objects not a good idea?
-Q29: What advantages are using arrow functions?
-Q30: What are the advantages and disadvantages of using "use strict"?
-Q31: When should we use generators in ES6?
-Q32: How to compare two objects in JavaScript?
-Q33: What will be the output of the following code?
-Q34: What is a closure, and how/why would you use one?
-Q35: What's a typical use case for anonymous functions?
-Q36: What will be the output of the following code?
-Q37: Suggest one simple way of removing duplicates from an array using ES6
-Q38: What is the difference between Anonymous and Named functions?
-Q39: Explain the difference between "Object.freeze()" vs "const"
-Q40: Why should we use ES6 classes?
-Q41: What are the differences between ES6 class and ES5 function constructors?
-Q42: What is Currying?
-Q43: What is the difference between document "load" event and document "DOMContentLoaded" event?
-Q44: What is the difference between a shim and a polyfill?
-Q45: What do you think of AMD vs CommonJS?
-Q46: What is the definition of a Higher-Order Function?
-Q47: What is a Jump (or Block) Search?
-Q48: Explain the difference between "undefined" and not defined in JavaScript
-Q49: What is Coercion in JavaScript?
-Q50: What is IIFEs (Immediately Invoked Function Expressions)?
-Q51: Explain what is Interpolation Search
-Q52: What is "export default" in JavaScript?
-Q53: When should I use Arrow Functions in ES6?
-Q54: What are the benefits of using spread syntax in ES6 and how is it different from rest syntax?
-Q55: Explain "Function.prototype.bind".
-Q56: Could you explain the difference between ES5 and ES6
-Q57: Describe Closure concept in JavaScript as best as you could
-Q58: What is the preferred syntax for defining enums in JavaScript?
-Q59: What's the difference between ".call" and ".apply"?
-Q60: What is the drawback of creating true private in JavaScript?
-Q61: Explain the differences on the usage of "foo" between "function foo() {}" and "var foo = function() {}"
- 
-Senior
-Q62: Does JavaScript have a "map" function to iterate over an object properties?
-Q63: How would you prevent Callback Hell without using promises, async or generators?
-Q64: Explain how JSONP works (and how it's not really Ajax)
-Q65: Could you compare usage of Module Pattern vs Constructor/Prototype pattern?
-Q66: When would you use "import * as X from 'X'"?
-Q67: What tools can be used to assure consistent code style?
-Q68: What is the Temporal Dead Zone in ES6?
-Q69: Explain Prototype Inheritance in JavaScript?
-Q70: Explain what is Hoisting in Javascript
-Q71: What's the difference between a variable that is: "null", "undefined" or undeclared? How would you go about checking for any of these states?
-Q72: Describe the JS module design pattern
-Q73: Explain the Prototype Design Pattern
-Q74: Can you give an example for destructuring an object or an array in ES6?
-Q75: What does the term Transpiling stand for?
-Q76: Can you describe the main difference between a ".forEach" loop and a ".map()" loop and why you would pick one versus the other?
-Q77: What is the "new" keyword in JavaScript?
-Q78: When should you NOT use arrow functions in ES6? Name three or more cases.
-Q79: Check if a given string is a isomorphic
-Q80: Explain difference between: "function Person(){}", "var person = Person()" , and "var person = new Person()"
-Q81: What is Hoisting in JavaScript?
-Q82: What are the actual uses of ES6 WeakMap?
-Q83: How can you share code between files?
-Q84: Can you give an example of a curry function and why this syntax offers an advantage?
-Q85: In JavaScript, why is the "this" operator inconsistent?
-
-Expert
-Q86: Does JavaScript pass by references or pass by values?
-Q87: Is JavaScript a pass-by-reference or pass-by-value language?
-Q88: Is it possible to reset an ECMAScript 6 generator to its initial state?
-Q89: What's the difference between ES6 "Map" and "WeakMap"?
-Q90: How to deep-freeze object in JavaScript?
-Q91: Compare "Async/Await" and "Generators" usage to achive same functionality
-Q92: What is the difference between the "await" keyword and the "yield" keyword?
+What is the "object" type?
+What is "typeof" operator?
+Explain arrays in JavaScript
+Explain equality in JavaScript
+What is the difference between "==" and "===" ?
+Explain "Null" and "Undefined" in JavaScript
+What's the difference between a variable that is: "null", "undefined" or undeclared? How would you go about checking for any of these states?
+Explain the difference between "undefined" and not defined in JavaScript
+Explain Values and Types in JavaScript
+What is Scope in JavaScript?
+What is Coercion in JavaScript?
+What's the difference between Host objects and Native objects?
+What's the difference between "throw Error('msg')" vs "throw new Error('msg')"?
+What language constructions do you use for iterating over object properties and array items?
+Does JavaScript have a "map" function to iterate over an object properties?
+Can you describe the main difference between a ".forEach" loop and a ".map()" loop and why you would pick one versus the other?
+What is "let" keyword in JavaScript?
+What's the difference between using "let" and "var" to declare a variable in ES6?
+What is "strict mode"?
+What does "use strict" do?
+What are the advantages and disadvantages of using "use strict"?
+Explain the same-origin policy with regards to JavaScript.
+Why is it, in general, a good idea to leave the global scope of a website as-is and never touch it?
+Explain event bubbling and how one may prevent it
+What is the difference between document "load" event and document "DOMContentLoaded" event?
+Why would you use something like the "load" event? Does this event have disadvantages? Do you know any alternatives, and why would you use those?
+What is Hoisting in JavaScript?
+Explain what is Hoisting in Javascript
+What is the "new" keyword in JavaScript?
+Explain difference between: "function Person(){}", "var person = Person()" , and "var person = new Person()"
+Explain the differences on the usage of "foo" between "function foo() {}" and "var foo = function() {}"
+What is a closure, and how/why would you use one?
+Describe Closure concept in JavaScript as best as you could
+What's a typical use case for anonymous functions?
+What is the difference between Anonymous and Named functions?
+What is the definition of a Higher-Order Function?
+What is Callback Hell and what is the main cause of it?
+How would you prevent Callback Hell without using promises, async or generators?
+What is Currying?
+Can you give an example of a curry function and why this syntax offers an advantage?
+Explain "Function.prototype.bind".
+What's the difference between ".call" and ".apply"?
+What is IIFEs (Immediately Invoked Function Expressions)?
+In JavaScript, why is the "this" operator inconsistent?
+Explain Prototype Inheritance in JavaScript?
+Explain the Prototype Design Pattern
+Describe the JS module design pattern
+Could you compare usage of Module Pattern vs Constructor/Prototype pattern?
+What is the drawback of creating true private in JavaScript?
+Why is extending built-in JavaScript objects not a good idea?
+What is a Polyfill?
+What is the difference between a shim and a polyfill?
+What do you think of AMD vs CommonJS?
+What is the Temporal Dead Zone in ES6?
+Does JavaScript pass by references or pass by values?
+Is JavaScript a pass-by-reference or pass-by-value language?
+How can you share code between files?
+What is "export default" in JavaScript?
+When would you use "import * as X from 'X'"?
+Suggest one simple way of removing duplicates from an array using ES6
+Can you give an example for destructuring an object or an array in ES6?
+What are the benefits of using spread syntax in ES6 and how is it different from rest syntax?
+How to compare two objects in JavaScript?
+What will be the output of the following code?
+What will be the output of the following code?
+Explain what is Linear (Sequential) Search and when may we use one?
+Explain what is Binary Search
+What is a Jump (or Block) Search?
+Explain what is Interpolation Search
+Check if a given string is a isomorphic
+Could you explain the difference between ES5 and ES6
+Why should we use ES6 classes?
+What are the differences between ES6 class and ES5 function constructors?
+What advantages are using arrow functions?
+When should I use Arrow Functions in ES6?
+When should you NOT use arrow functions in ES6? Name three or more cases.
+What is generator in JS?
+When should we use generators in ES6?
+Is it possible to reset an ECMAScript 6 generator to its initial state?
+Compare "Async/Await" and "Generators" usage to achive same functionality
+What is the difference between the "await" keyword and the "yield" keyword?
+What is the motivation for bringing "Symbol" to ES6?
+What's the difference between ES6 "Map" and "WeakMap"?
+What are the actual uses of ES6 WeakMap?
+Explain the difference between "Object.freeze()" vs "const"
+What is the preferred syntax for defining enums in JavaScript?
+How to deep-freeze object in JavaScript?
+What does the term Transpiling stand for?
+What are some of the advantages/disadvantages of writing JavaScript code in a language that compiles to JavaScript?
+Is there anyway to force using strict mode in Node.js?
+What tools can be used to assure consistent code style?
+Explain how JSONP works (and how it's not really Ajax)

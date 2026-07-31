@@ -1,148 +1,135 @@
-Entry
-Q1: What are Property Accessors?
-Q2: What is the difference between continue and break statements in C#?
-Q3: What is C#?
-Q4: What is an Object?
-Q5: What are partial classes?
-
-Junior
-Q6: What is enum in C#?
-Q7: Can multiple catch blocks be executed?
-Q8: What is namespace in C#?
-Q9: How is Exception Handling implemented in C#?
-Q10: What is the difference between string and StringBuilder in C#?
-Q11: What is Boxing and Unboxing?
-Q12: What is LINQ in C#?
-Q13: What is Serialization?
-Q14: What are dynamic type variables in C#?
-Q15: What are the different types of classes in C#?
-Q16: What is the difference between a Struct and a Class in C#?
-Q17: In how many ways you can pass parameters to a method?
-Q18: Can this be used within a Static method?
-Q19: Why to use finally block in C#?
-Q20: What are Nullable types in C#?
-Q21: What is Managed or Unmanaged Code?
-Q22: What is the difference between a class and a structure?
-Q23: What you understand by Value types and Reference types in .NET? Provide some comparison.
-Q24: What are Reference Types in C#?
-Q25: What is an Abstract Class?
-Q26: What are generics in C#?
-
-Mid
-Q27: When to use Record vs Class vs Struct in C#?
-Q28: What is Record in C#?
-Q29: What are the uses of using in C#?
-Q30: Explain the difference between Task and Thread in .NET
-Q31: What is the use of the IDisposable interface?
-Q32: Is there a way to catch multiple exceptions at once and without code duplication?
-Q33: How encapsulation is implemented in C#?
-Q34: Explain assignment vs shallow copy vs deep copy for a Record in C#
-Q35: What is sealed Class in C#?
-Q36: How can you prevent a class from overriding in C#?
-Q37: Explain Code Compilation in C#
-Q38: What is Extension Method in C# and how to use them?
-Q39: What is an anonymous function in C#?
-Q40: What is difference between constant and readonly?
-Q41: What is Reflection in C#.Net?
-Q42: What is scope of a Internal member variable of a C# class?
-Q43: What is the difference between overloading and overriding?
-Q44: What is a Destructor in C# and when shall I create one?
-Q45: What is the difference between Interface and Abstract Class?
-Q46: Is there a difference between throw and throw ex?
-Q47: What is the difference between ref and out keywords?
-Q48: Explain Anonymous type in C#
-Q49: Why can't you specify the accessibility modifier for methods inside the Interface?
-Q50: What is the difference between dynamic type variables and object type variables?
-Q51: What is the difference between Virtual method and Abstract method?
-Q52: What is lambda expressions in C#?
-Q53: What is the difference between Equality Operator (==) and Equals() Method in C#?
-Q54: What is the use of Null Coalescing Operator (??) in C#?
-Q55: What is Virtual Method in C#?
-
-Senior
-Q56: What is difference between late binding and early binding in C#?
-Q57: What is the difference between Func<string, string> and delegate?
-Q58: Is operator overloading supported in C#?
-Q59: Can Multiple Inheritance implemented in C#?
-Q60: What interface should your data structure implement to make the Where method work?
-Q61: What is a static constructor?
-Q62: What is the use of conditional preprocessor directive in C#?
-Q63: Explain what is Ternary Search?
-Q64: Explain how does Asynchronous tasks Async/Await work in .NET?
-Q65: What happens when we Box or Unbox Nullable types?
-Q66: Can you explain the difference between Interface, abstract class, sealed class, static class and partial class in C#?
-Q67: How to solve Circular Reference?
-Q68: Test if a Number belongs to the Fibonacci Series
-Q69: When to use ArrayList over array[] in C#?
-Q70: IEnumerable vs List - What to Use? How do they work?
-Q71: When would you use delegates in C#?
-Q72: What are the different ways a method can be overloaded?
-Q73: What is the best practice to have best performance using Lazy objects?
-Q74: What is scope of a Protected Internal member variable of a C# class?
-Q75: What is Indexer in C#?
-Q76: Explain what is Short-Circuit Evaluation in C#?
-Q77: Can you create a function in C# which can accept varying number of arguments?
-Q78: What is Marshalling and why do we need it?
-Q79: What is the difference between is and as operators in C#?
-Q80: What are pointer types in C#?
-Q81: What is the yield keyword used for in C#?
-Q82: What's the difference between StackOverflowError and OutOfMemoryError?
-Q83: Why to use lock statement in C#?
-Q84: Explain the difference between Select and Where.
-Q85: What is the difference between dispose and finalize methods in C#?
-Q86: What is the Constructor Chaining in C#?
-Q87: What is the difference between System.ApplicationException class and System.SystemException class?
-
-Expert
-Q88: Why doesn't C# allow static methods to implement an interface?
-Q89: Could you explain the difference between destructor, dispose and finalize method?
-Q90: Explain the difference between IQueryable, ICollection, IList & IDictionary interfaces?
-Q91: Can you add extension methods to an existing static class?
-Q92: What is the difference between Lambdas and Delegates?
-Q93: What is a preprocessor directives in C#?
-Q94: In C#, when should we use abstract classes instead of interfaces with extension methods?
-Q95: What is the method MemberwiseClone() doing?
-Q96: Implement the Where method in C#. Explain.
-Q97: Explain when to use Finalize vs Dispose?
-Q98: What is the volatile keyword used for?
-Q99: What are Circular References in C#?
-Q100: Could you explain the difference between Func vs. Action vs. Predicate?
-Q101: You have defined a destructor in a class that you have developed by using the C#, but the destructor never executed. Why?
-Q102: List some different ways for equality check in .NET
-Q103: What is Multicast Delegate in C#?
-Q104: What is the use of static constructors?
-Q105: What is jagged array in C# and when to prefer jagged arrays over multi-dimensional arrays?
-Q106: What are the differences between IEnumerable and IQueryable?
-Q107: What are the benefits of a Deferred Execution in LINQ?
-Q108: Why Abstract class can not be sealed or static?
-Q109: Explain what is Weak Reference in C#?
-Q110: What's the difference between the System.Array.CopyTo() and System.Array.Clone()?
-Q111: What is deep or shallow copy concept in C#?
-
-
-Junior: Code
-Q1: Implement a Queue using two Stacks
-Q2: Filter out the first 3 even numbers from the list using LINQ
-
-Mid: Code
-Q3: Can you do Iterative Pre-order Traversal of a Binary Tree without Recursion?
-Q4: Can you return multiple values from a function in C#? Provide some examples.
-Q5: What is the output of the program below? Explain.
-Q6: Given an array of ints, write a C# method to total all the values that are even numbers.
-Q7: Explain how does the Sentinel Search work?
-Q8: Refactor the code
-Q9: Reverse the ordering of words in a String
-Q10: How to check if two Strings (words) are Anagrams?
-
-Senior: Code
-Q11: Is the comparison of time and null in the if statement below valid or not? Why or why not?
-Q12: What is the output of the program below?
-Q13: Binet's formula: How to calculate Fibonacci numbers without Recursion or Iteration?
-Q14: Find Merge (Intersection) Point of Two Linked Lists
-Q15: Is relying on && short-circuiting safe in .NET?
-Q16: Explain what is Fibonacci Search technique?
-Q17: What is the output of the short program below? Explain your answer.
-Q18: What is the output of the program below? Explain your answer.
-
-Expert: Code
-Q19: Calculate the circumference of the circle
+What is C#?
+What is an Object?
+What is the difference between continue and break statements in C#?
+What are Property Accessors?
+What are partial classes?
+What is namespace in C#?
+What is enum in C#?
+What is the difference between a class and a structure?
+What is the difference between a Struct and a Class in C#?
+What you understand by Value types and Reference types in .NET? Provide some comparison.
+What are Reference Types in C#?
+What are the different types of classes in C#?
+What is an Abstract Class?
+What is the difference between Interface and Abstract Class?
+Why can't you specify the accessibility modifier for methods inside the Interface?
+What are generics in C#?
+What is Boxing and Unboxing?
+What happens when we Box or Unbox Nullable types?
+What are Nullable types in C#?
+What is the use of Null Coalescing Operator (??) in C#?
+What is the difference between string and StringBuilder in C#?
+What is the Constructor Chaining in C#?
+What is a static constructor?
+What is the use of static constructors?
+What is difference between constant and readonly?
+In how many ways you can pass parameters to a method?
+What is the difference between ref and out keywords?
+What is the difference between ref, out, and in parameters?
+Can this be used within a Static method?
+Why does a static class need no object? Can a static class have only static members?
+Can a non-static class have static methods?
+Can a constructor be private? Why would you make one private?
+What is the difference between overloading and overriding?
+What are the different ways a method can be overloaded?
+What is the difference between Virtual method and Abstract method?
+What is Virtual Method in C#?
+How can you prevent a class from overriding in C#?
+What is sealed Class in C#?
+Why to use finally block in C#?
+How is Exception Handling implemented in C#?
+Can multiple catch blocks be executed?
+Is there a way to catch multiple exceptions at once and without code duplication?
+Is there a difference between throw and throw ex?
+What is Managed or Unmanaged Code?
+What is Serialization?
+What is LINQ in C#?
+Explain the difference between Select and Where.
+What are the benefits of a Deferred Execution in LINQ?
+What are the differences between IEnumerable and IQueryable?
+IEnumerable vs List - What to Use? How do they work?
+Explain the difference between IQueryable, ICollection, IList & IDictionary interfaces?
+What are dynamic type variables in C#?
+What is the difference between dynamic type variables and object type variables?
+How encapsulation is implemented in C#?
+Explain Code Compilation in C#
+What is the difference between Compile-time and Run-time errors?
+What is Extension Method in C# and how to use them?
+Can you add extension methods to an existing static class?
+What is an anonymous function in C#?
+Explain Anonymous type in C#
+What is lambda expressions in C#?
+What is the difference between Lambdas and Delegates?
+What is the difference between Equality Operator (==) and Equals() Method in C#?
+What is scope of a Internal member variable of a C# class?
+What is scope of a Protected Internal member variable of a C# class?
+When to use Record vs Class vs Struct in C#?
+What is Record in C#?
+Explain assignment vs shallow copy vs deep copy for a Record in C#
+What is deep or shallow copy concept in C#?
+What are the uses of using in C#?
+What is the use of the IDisposable interface?
+What is the difference between dispose and finalize methods in C#?
+Could you explain the difference between destructor, dispose and finalize method?
+Explain when to use Finalize vs Dispose?
+What is a Destructor in C# and when shall I create one?
+You have defined a destructor in a class that you have developed by using the C#, but the destructor never executed. Why?
+What is Reflection in C#.Net?
+What is difference between late binding and early binding in C#?
+What is the difference between Func<string, string> and delegate?
+Could you explain the difference between Func vs. Action vs. Predicate?
+What is Multicast Delegate in C#?
+When would you use delegates in C#?
+Is operator overloading supported in C#?
+Can Multiple Inheritance implemented in C#?
+Can you explain the difference between Interface, abstract class, sealed class, static class and partial class in C#?
+Why Abstract class can not be sealed or static?
+Why doesn't C# allow static methods to implement an interface?
+In C#, when should we use abstract classes instead of interfaces with extension methods?
+What interface should your data structure implement to make the Where method work?
+Implement the Where method in C#. Explain.
+What is the use of conditional preprocessor directive in C#?
+What is a preprocessor directives in C#?
+How to solve Circular Reference?
+What are Circular References in C#?
+When to use ArrayList over array[] in C#?
+What is the best practice to have best performance using Lazy objects?
+What is Indexer in C#?
+Explain what is Short-Circuit Evaluation in C#?
+Is relying on && short-circuiting safe in .NET?
+Can you create a function in C# which can accept varying number of arguments?
+What is Marshalling and why do we need it?
+What is the difference between is and as operators in C#?
+What are pointer types in C#?
+What is the yield keyword used for in C#?
+What's the difference between StackOverflowError and OutOfMemoryError?
+Why to use lock statement in C#?
+What is the difference between System.ApplicationException class and System.SystemException class?
+Explain the difference between Task and Thread in .NET
+Explain how does Asynchronous tasks Async/Await work in .NET?
+What is the method MemberwiseClone() doing?
+What is the volatile keyword used for?
+List some different ways for equality check in .NET
+What is jagged array in C# and when to prefer jagged arrays over multi-dimensional arrays?
+Explain what is Weak Reference in C#?
+What's the difference between the System.Array.CopyTo() and System.Array.Clone()?
+Implement a Queue using two Stacks
+Filter out the first 3 even numbers from the list using LINQ
+Can you do Iterative Pre-order Traversal of a Binary Tree without Recursion?
+Can you return multiple values from a function in C#? Provide some examples.
+What is the output of the program below? Explain.
+Given an array of ints, write a C# method to total all the values that are even numbers.
+Explain how does the Sentinel Search work?
+Refactor the code
+Reverse the ordering of words in a String
+How to check if two Strings (words) are Anagrams?
+Explain what is Ternary Search?
+Test if a Number belongs to the Fibonacci Series
+Explain what is Fibonacci Search technique?
+Binet's formula: How to calculate Fibonacci numbers without Recursion or Iteration?
+Find Merge (Intersection) Point of Two Linked Lists
+Is the comparison of time and null in the if statement below valid or not? Why or why not?
+What is the output of the program below?
+What is the output of the short program below? Explain your answer.
+What is the output of the program below? Explain your answer.
+Calculate the circumference of the circle

@@ -1,83 +1,74 @@
-Entry
-Q1: What are the top UX research methods and when to use them?
-Q2: What is usability testing?
-Q3: What are the most popular usability methods?
-Q4: What are the types of prototypes?
-Q5: What are the advantages and disadvantages of usability testing?
-Q6: The importance of prototyping in designing?
-Q7: What are the different types of usability testing?
-Q8: What are user research methods?
-Q9: What is prototyping in design?
-Q10: What is user experience (UX) research?
-Q11: What is the prototyping process?
-Q12: Name some basic design elements
-
-Junior
-Q13: What you have to consider when budgeting for usability testing?
-Q14: What’s the difference between A/B testing and usability testing?
-Q15: What is Interaction Design?
-Q16: What are key principles of good website usability?
-Q17: What is User Research?
-Q18: What is the role of research in the UX design process?
-Q19: When should prototyping be used?
-Q20: How to conduct UX research with usability testing?
-Q21: What is Graphic Design?
-Q22: What are the essentials of successful prototyping?
-Q23: What are the disadvantages of rapid prototyping?
-Q24: Why do you do user research?
-Q25: How do you write usability tasks?
-Q26: What is User Centered Design?
-Q27: Describe what User Interface (UI) Design does mean for you?
-Q28: What are the 4 types of research methods?
-Q29: Is UX design UI design? What’s the difference?
-Q30: What is extreme prototyping
-Q31: Name some UX Design tools you prefer to work with
-
-Mid
-Q32: How do you write a usability test report?
-Q33: What are the disadvantages of Prototype model?
-Q34: What is mobile app prototyping?
-Q35: What are prototyping tools?
-Q36: What is the effect of designing a prototype on the overall cost of the project?
-Q37: What product is considered as a usability design?
-Q38: Why usability is so important?
-Q39: How do you analyze usability results?
-Q40: Why use mockups?
-Q41: How do you present user research findings?
-Q42: What are the 5 steps in the research process?
-Q43: How do you create a research methodology?
-Q44: What Is the difference between good and bad UX research?
-Q45: What does the term "design-thinking" mean to you?
-Q46: Name fundamental principles of design
-Q47: What is Industrial Design?
-Q48: Name some goals of UX Design
-
-Senior
-Q49: What are the good reasons designers should build more prototypes?
-Q50: What do designers learn from making a prototype
-Q51: What are the objectives of testing a prototype?
-Q52: Name a main difference Between UX And UI Design
-Q53: What is remote usability testing?
-Q54: Why is UX research important?
-Q55: How do you perform usability testing?
-Q56: What is the difference between usability testing vs functional testing?
-Q57: What are usability factors?
-
-Expert
-Q58: How many participants are needed for usability testing?
-Q59: How would you conducting user research when time and money are tight?
-Q60: What is a wireframe, and why do UX designers use them?
-Q61: How do you do user study for maximum value?
-Q62: How do you showcasing the data?
-Q63: What is the difference between a pilot and a prototype?
-Q64: What are user research tools do you use?
-Q65: What are the benefits of prototyping your App?
-Q66: How do you make a prototype for a mobile app and leave a lasting impression on investors?
-Q67: What is UI prototype?
-Q68: What is the difference between waterfall model and prototype model?
-Q69: What are the benefits of usability testing?
-Q70: What are the 10 usability principles for user interface design?
-Q71: What criteria are used to measure usability?
+What is user experience (UX) research?
+What is UI prototype?
+What is UX design UI design? What’s the difference?
+Name a main difference Between UX And UI Design
+Describe what User Interface (UI) Design does mean for you?
+What is Interaction Design?
+What is Graphic Design?
+What is Industrial Design?
+Name some basic design elements
+Name fundamental principles of design
+What does the term "design-thinking" mean to you?
+Name some goals of UX Design
+What is User Centered Design?
+What is User Research?
+What are user research methods?
+What are the top UX research methods and when to use them?
+What are the 4 types of research methods?
+What is the role of research in the UX design process?
+Why do you do user research?
+Why is UX research important?
+What Is the difference between good and bad UX research?
+How do you create a research methodology?
+What are the 5 steps in the research process?
+How do you conduct UX research with usability testing?
+How would you conducting user research when time and money are tight?
+What are user research tools do you use?
+How do you do user study for maximum value?
+How do you present user research findings?
+How do you showcasing the data?
+What is usability testing?
+What are the most popular usability methods?
+What are the different types of usability testing?
+What are the advantages and disadvantages of usability testing?
+What you have to consider when budgeting for usability testing?
+What’s the difference between A/B testing and usability testing?
+What is the difference between usability testing vs functional testing?
+How many participants are needed for usability testing?
+What is remote usability testing?
+How do you perform usability testing?
+How do you write usability tasks?
+How do you write a usability test report?
+How do you analyze usability results?
+What are usability factors?
+What criteria are used to measure usability?
+What are the 10 usability principles for user interface design?
+What are key principles of good website usability?
+Why usability is so important?
+What product is considered as a usability design?
+What are the benefits of usability testing?
+What is a wireframe, and why do UX designers use them?
+What is prototyping in design?
+What is the prototyping process?
+The importance of prototyping in designing?
+What are the types of prototypes?
+When should prototyping be used?
+What are the essentials of successful prototyping?
+What are prototyping tools?
+What are the good reasons designers should build more prototypes?
+What do designers learn from making a prototype
+What are the objectives of testing a prototype?
+What is the effect of designing a prototype on the overall cost of the project?
+What are the disadvantages of rapid prototyping?
+What is extreme prototyping
+What are the benefits of prototyping your App?
+What is mobile app prototyping?
+How do you make a prototype for a mobile app and leave a lasting impression on investors?
+What is the difference between a pilot and a prototype?
+What is the difference between waterfall model and prototype model?
+What are the disadvantages of Prototype model?
+Why use mockups?
+Name some UX Design tools you prefer to work with
 Q72: What are the different types of usability testing?
 Q73: How to make your wireframe in six steps?
 Q74: What to consider when deciding on your wireframing process?

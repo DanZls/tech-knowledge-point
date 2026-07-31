@@ -1,0 +1,40 @@
+What is difference between Git vs SVN?
+What is Git?
+What is the command to write a commit message in Git?
+What's the difference between a pull request and a branch?
+What is Git fork? What is difference between fork, branch and clone?
+How does the Centralized Workflow work?
+What is the difference between git fetch and git pull?
+How to undo the most recent commits in Git?
+You need to update your local repos. What git commands will you use?
+Tell me the difference between HEAD, working tree and index, in Git?
+How to revert previous commit in git?
+What is a "bare git" repository?
+What is git stash, and when should you use it?
+Explain the advantages of Forking Workflow
+What is git cherry-pick, and when should it be used?
+Could you explain the Gitflow workflow?
+You need to rollback to a previous commit and don't care about recent changes. What commands should you use?
+How do you resolve a Merge Conflict? What are the exact steps?
+What is a Merge Request (MR) / Pull Request (PR) workflow in GitLab?
+Explain Git tagging and its purpose in release management.
+When would you use git clone over git clone --bare?
+What is the difference between git clone, git clone --bare and git clone --mirror?
+How do you make an existing repository bare?
+When would you use git clone over git clone --mirror?
+When would you use git clone --bare over git clone --mirror?
+Can you explain what git reset does in plain English?
+What is the HEAD in Git?
+What is difference between git stash pop and git stash apply?
+What is the difference between git merge and git rebase?
+How do you undo the last commit that has already been pushed to a remote repository (revert vs reset --hard)?
+How to remove a file from git without removing it from your file system?
+Write down a sequence of git commands for a "Rebase Workflow"
+Do you know how to easily undo a git rebase?
+What are "git hooks"?
+What are the type of git hooks?
+What is git bisect? How can you use it to determine the source of a (regression) bug?
+When do you use git rebase instead of git merge?
+What git command do you need to use to know who changed certain lines in a specific file?
+Write down a git command to check difference between two commits
+How to amend older Git commit?

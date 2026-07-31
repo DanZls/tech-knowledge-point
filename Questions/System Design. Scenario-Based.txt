@@ -1,0 +1,13 @@
+Implement Role-Based Authorization (claims, [Authorize(Roles=...)], policy-based authorization).
+Design a secure JWT Login API (password hashing, short expiration, refresh tokens, RS256 signing).
+Frontend-backend sync failure due to a missing foreign key on save — how do you validate safely?
+Pushing schema changes (new nullable columns) safely without breaking production.
+Handling brief network drops when consuming a third-party microservice (retry policies, e.g., Polly).
+Preventing lost updates when two users modify the same row simultaneously (optimistic concurrency control).
+Resolving slow search queries on a large table via composite indexing.
+Protecting endpoints from XSS via unsanitized HTML input (e.g., HtmlSanitizer).
+Checking hierarchical direct reports' live status (e.g., "On Leave") in a manager dashboard query.
+Deduplicating conflicting attendance/agenda log entries using a priority hierarchy.
+Excel report download is slow for large datasets — how do you resolve it (e.g., streaming with MiniExcel)?
+Resolve duplicate database records (data cleanup, unique constraints, idempotent API design, distributed locking).
+Troubleshoot an API response-time increase (distributed tracing, DB performance, thread pool starvation, memory profiling).

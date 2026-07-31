@@ -1,0 +1,56 @@
+What is "PRIMARY KEY"?
+What is "FOREIGN KEY"?
+What's the difference between a Primary Key and a Unique Key?
+What is "DEFAULT"?
+What is a "VIEW"?
+How can "VIEW" be used to provide security layer for your app?
+Define a Temp Table
+What is Normalisation?
+What is Denormalization?
+What is the difference between Data Definition Language (DDL) and Data Manipulation Language (DML)?
+What is the difference between "TRUNCATE" and "DELETE"?
+Describe the difference between "truncate" and "delete".
+How does "TRUNCATE" and "DELETE" operations effect Identity?
+What is the difference between "INNER JOIN", "OUTER JOIN", "FULL OUTER JOIN"?
+What is the difference between "INNER JOIN" and "OUTER JOIN"?
+Discuss "INNER JOIN" on vs "WHERE" clause (with multiple "FROM" tables)
+What is the difference between "WHERE" clause and "HAVING" clause?
+What is the difference between "JOIN" and "UNION"?
+What is the difference between "UNION" and "UNION ALL"?
+What is the difference among "UNION", "MINUS" and "INTERSECT"?
+How to select first 5 records from a table?
+Find duplicate values in a SQL table
+Delete duplicate values in a SQL table
+What is Collation?
+Define ACID Properties
+What is a Composite Key?
+Why use a Foreign Key instead of manually storing an ID?
+What are the difference between Clustered and a Non-clustered index?
+What is the cost of having a database index?
+What would happen without an Index?
+How a database index can help performance?
+How does database Indexing work?
+How to generate row number in SQL without "ROWNUM"?
+Compare ROW_NUMBER vs RANK vs DENSE_RANK vs NTILE window functions
+How can I do an "UPDATE" statement with "JOIN" in SQL?
+Select first row in each "GROUP BY" group (greatest-n-per-group problem)?
+How do you find the 2nd (or Nth) highest salary, per department or globally?
+How can we transpose a table using SQL (changing rows to column or vice-versa)?
+What is faster, one big query or many small queries?
+What’s the difference between Azure SQL Database and Azure SQL Managed Instance?
+How do you identify missed records after a data migration?
+How do you perform a zero/minimal-downtime schema change on a live database while preserving data integrity?
+What is Optimistic Locking and Pessimistic Locking?
+Explain the difference between Exclusive Lock and Update Lock
+What lock types occur on delete (row/page/table-level) for a few rows vs thousands of rows?
+Why does a deadlock happen in production but not in UAT, e.g. between a delete+reinsert and a UI read?
+How can a read replica or read-only table help avoid deadlocks?
+How does B-trees Index work?
+What is the difference between B-Tree, R-Tree and Hash indexing?
+How does a Hash index work?
+Name some disadvantages of a Hash index
+What are some other types of Indexes (vs B-Trees)?
+What is Index Cardinality and why does it matter?
+How do you analyze a query execution plan to find performance issues?
+What are the steps to optimize a slow SQL query end-to-end (execution plan, SARGable syntax, wildcards, indexing)?
+How would you resolve slow search queries on a large table using composite indexing?

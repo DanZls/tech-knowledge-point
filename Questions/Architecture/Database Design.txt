@@ -1,38 +1,31 @@
-Junior
-Q1: What is Normalisation?
-Q2: What are the advantages of NoSQL over traditional RDBMS?
-Q3: What is the difference between Data Definition Language (DDL) and Data Manipulation Language (DML)?
-
-Mid
-Q4: What Is ACID Property Of A System?
-Q5: Define ACID Properties
-Q6: How a database index can help performance?
-Q7: What is Optimistic Locking?
-Q8: What is Denormalization?
-Q9: What are the difference between Clustered and a Non-clustered index?
-Q10: When should I use a NoSQL database instead of a relational database?
-Q11: What's the difference between a Primary Key and a Unique Key?
-Q12: When would you use NoSQL?
-Q13: How do you off load work from the Database?
-
-Senior
-Q14: What is BASE property of a system?
-Q15: What Is Sharding?
-Q16: How do you track record relations in NoSQL?
-Q17: Explain eventual consistency in context of NoSQL
-Q18: How does B-trees Index work?
-Q19: Explain the difference between Exclusive Lock and Update Lock
-Q20: What is the cost of having a database index?
-
-Expert
-Q21: How do you make schema changes to a live database without downtime?
-Q22: Why you should never use GUIDs as part of clustered index?
-Q23: What is the difference between B-Tree, R-Tree and Hash indexing?
-Q24: Is the C in ACID is not the C in CAP?
-Q25: What is Index Cardinality and why does it matter?
-Q26: What Does Eventually Consistent Mean?
-Q27: Explain the differences in conceptual data design with NoSQL databases?
-Q28: How does database Indexing work?
-Q29: What is Optimistic Locking and Pessimistic Locking?
-Q30: Name some disadvantages of a Hash index
-Q31: What are some other types of Indexes (vs B-Trees)?
+What is Normalisation?
+What is Denormalization?
+What is the difference between Data Definition Language (DDL) and Data Manipulation Language (DML)?
+What's the difference between a Primary Key and a Unique Key?
+What are the difference between Clustered and a Non-clustered index?
+How a database index can help performance?
+What is the cost of having a database index?
+How does database Indexing work?
+How does B-trees Index work?
+What is the difference between B-Tree, R-Tree and Hash indexing?
+What is Index Cardinality and why does it matter?
+Name some disadvantages of a Hash index
+What are some other types of Indexes (vs B-Trees)?
+Define ACID Properties
+What Is ACID Property Of A System?
+What is Optimistic Locking?
+What is Optimistic Locking and Pessimistic Locking?
+Explain the difference between Exclusive Lock and Update Lock
+How do you off load work from the Database?
+How do you make schema changes to a live database without downtime?
+What are the advantages of NoSQL over traditional RDBMS?
+When should I use a NoSQL database instead of a relational database?
+When would you use NoSQL?
+How do you track record relations in NoSQL?
+Explain the differences in conceptual data design with NoSQL databases?
+What is BASE property of a system?
+Explain eventual consistency in context of NoSQL
+What Does Eventually Consistent Mean?
+What Is Sharding?
+Is the C in ACID is not the C in CAP?
+Why you should never use GUIDs as part of clustered index?

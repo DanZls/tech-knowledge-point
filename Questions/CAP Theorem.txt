@@ -1,20 +1,13 @@
-Entry
-Q1: What Is CAP Theorem?
-
-Mid
-Q2: Why is CAP Theorem true?
-Q3: What does the CAP Theorem actually say?
-Q4: Can you 'got around' or 'beat' the CAP Theorem?
-Q5: What is a "Partition" in CAP Theorem?
-Q6: What are A and P in CAP and the difference between them?
-Q7: Name some types of "Consistency" patterns
-
-Senior
-Q8: What does atomic (or linearizable) consistency mean?
-Q9: What shall you choose when a "Partition" does occur and why?
-Q10: Explain when CA from CAP is possible?
-Q11: How to choose between CP (consistency) and AP (availability)?
-
-Expert
-Q12: Is the C in ACID is not the C in CAP?
-Q13: Explain what is PACELC Theorem?
+What Is CAP Theorem?
+What does the CAP Theorem actually say?
+What is a "Partition" in CAP Theorem?
+What are A and P in CAP and the difference between them?
+Why is CAP Theorem true?
+Name some types of "Consistency" patterns
+Can you 'got around' or 'beat' the CAP Theorem?
+What does atomic (or linearizable) consistency mean?
+Explain when CA from CAP is possible?
+What shall you choose when a "Partition" does occur and why?
+How to choose between CP (consistency) and AP (availability)?
+Is the C in ACID is not the C in CAP?
+Explain what is PACELC Theorem?

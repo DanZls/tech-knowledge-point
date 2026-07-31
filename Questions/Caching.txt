@@ -1,27 +1,19 @@
-Entry
-Q1: What is Caching?
-Q2: What is Resultset Caching?
-
-Junior
-Q3: Name some Cache Writing Strategies
-Q4: What is Cache Invalidation?
-Q5: Is Redis just a cache?
-Q6: What usually should be cached?
-Q7: What are some alternatives to Cache Invalidation?
-Q8: Name some Cache Invalidation methods
-
-Mid
-Q9: What are some disadvantages of Cache Invalidation?
-Q10: Explain what is Cache Stampede
-
-Senior
-Q11: What is the difference between Cache replacement vs Cache invalidation?
-Q12: Why is Cache Invalidation considered difficult?
-Q13: What are Cache Replacement (or Eviction Policy) algorithms?
-Q14: Compare caching at Business Layer vs Caching at Data Layer
-
-Expert
-Q15: When to use LRU vs LFU Cache Replacement algorithms?
-Q16: What are best practices for caching paginated results whose ordering/properties can change?
-Q17: Cache miss-storm: Dealing with concurrency when caching invalidates for high-traffic sites
-Q18: Name some Cache Stampede mitigation techniques
+What is Caching?
+What usually should be cached?
+Is Redis just a cache?
+Name some Cache Writing Strategies
+What is Resultset Caching?
+What is Cache Invalidation?
+Name some Cache Invalidation methods
+What are some alternatives to Cache Invalidation?
+Explain what is Cache Stampede
+What are some disadvantages of Cache Invalidation?
+Why is Cache Invalidation considered difficult?
+What is the difference between Cache replacement vs Cache invalidation?
+What are Cache Replacement (or Eviction Policy) algorithms?
+Compare caching at Business Layer vs Caching at Data Layer
+How would you design a Feature Flag System backed by an in-memory cache with a background sync store?
+When to use LRU vs LFU Cache Replacement algorithms?
+What are best practices for caching paginated results whose ordering/properties can change?
+Name some Cache Stampede mitigation techniques
+Cache miss-storm: Dealing with concurrency when caching invalidates for high-traffic sites

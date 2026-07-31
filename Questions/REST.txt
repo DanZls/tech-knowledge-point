@@ -1,0 +1,26 @@
+What is REST Web Services?
+Which protocol is used by RESTful webservices?
+What is RESTful Web Services?
+What REST stands for?
+What is a Resource in Restful web services?
+Mention what is the difference between AJAX and REST?
+What is purpose of a URI in REST based webservices?
+What are different HTTP Methods supported in Restful Web Services?
+Mention some key characteristics of REST?
+Mention what are resources in a REST architecture?
+What are advantages of REST web services?
+What's the difference between REST & RESTful?
+What is addressing in RESTful webservices?
+What is messaging in RESTful webservices?
+What is statelessness in RESTful Webservices?
+What are disadvantages of REST web services?
+What are the disadvantages of statelessness in RESTful Webservices?
+WebSockets vs Rest API for real time data? Which to choose?
+What should be the purpose of OPTIONS method of RESTful web services?
+What are the advantages of statelessness in RESTful Webservices?
+What should be the purpose of HEAD method of RESTful web services?
+What is difference between OData and REST web services?
+Explain the difference between WCF, Web API, WCF REST and Web Service?
+Enlist some important constraints for RESTful web services
+What are the best practices to be followed while designing a secure RESTful web service?
+Name some best practices for better RESTful API design

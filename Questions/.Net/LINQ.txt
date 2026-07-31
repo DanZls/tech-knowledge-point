@@ -1,52 +1,37 @@
-Entry
-Q1: Explain what is LINQ? Why is it required?
-Q2: What are the types of LINQ?
-Q3: What are Anonymous Types?
-
-Junior
-Q4: Mention what is the role of DataContext classes in LINQ?
-Q5: What are Extension Methods?
-Q6: Explain why SELECT clause comes after FROM clause in LINQ?
-Q7: Explain what is LINQ to Objects?
-Q8: Explain what is the purpose of LINQ providers in LINQ?
-Q9: Explain how LINQ is useful than Stored Procedures?
-Q10: In LINQ how will you find the index of the element using where() with Lambda Expressions?
-Q11: What is Anonymous function?
-Q12: List out the three main components of LINQ?
-Q13: What is LINQ in C#?
-
-Mid
-Q14: What is the difference between First() and Take(1)?
-Q15: Explain what are LINQ compiled queries?
-Q16: Explain what is Lambda Expressions in LINQ?
-Q17: What is Expression Trees and how they used in LINQ?
-Q18: Could you compare Entity Framework vs LINQ to SQL vs ADO.NET with stored procedures?
-Q19: When trying to decide between using the Entity Framework and LINQ to SQL as an ORM, what's the difference?
-Q20: Could you explain what is the exact deference between deferred execution and Lazy evaluation in C#?
-Q21: Define what is let clause?
-Q22: Explain how standard query operators useful in LINQ?
-Q23: When to use First() and when to use FirstOrDefault() with LINQ?
-Q24: Explain what is the difference between Skip() and SkipWhile() extension method?
-Q25: Explain the difference between Select and Where
-Q26: Name some advantages of LINQ over Stored Procedures
-
-Senior
-Q27: When should I use a CompiledQuery?
-Q28: What is an equivalent to the let keyword in chained LINQ extension method calls?
-Q29: Can you provide a concise distinction between anonymous method and lambda expressions?
-Q30: What is the difference between returning IQueryable<T> vs. IEnumerable<T>?
-
-Expert
-Q31: What are the benefits of a Deferred Execution in LINQ?
-Q32: Why use AsEnumerable() rather than casting to IEnumerable<T>?
-Q33: What is the difference between Select and SelectMany?
-Q34: Name some disadvantages of LINQ over Stored Procedures
-
-
-
-Junior: Code
-Q1: Filter out the first 3 even numbers from the list using LINQ
-
-Mid: Code
-Q2: Using LINQ to remove elements from a List<T>
-Q3: Get the indexes of top n items where item value = true
+Explain what is LINQ? Why is it required?
+What is LINQ in C#?
+What are the types of LINQ?
+List out the three main components of LINQ?
+Explain what is LINQ to Objects?
+Explain what is the purpose of LINQ providers in LINQ?
+Mention what is the role of DataContext classes in LINQ?
+What are Extension Methods?
+What are Anonymous Types?
+What is Anonymous function?
+Explain why SELECT clause comes after FROM clause in LINQ?
+Explain the difference between Select and Where
+What is the difference between Select and SelectMany?
+In LINQ how will you find the index of the element using where() with Lambda Expressions?
+Explain how LINQ is useful than Stored Procedures?
+Name some advantages of LINQ over Stored Procedures
+Name some disadvantages of LINQ over Stored Procedures
+What is the difference between First() and Take(1)?
+When to use First() and when to use FirstOrDefault() with LINQ?
+Explain what is the difference between Skip() and SkipWhile() extension method?
+Define what is let clause?
+What is an equivalent to the let keyword in chained LINQ extension method calls?
+Explain how standard query operators useful in LINQ?
+Explain what is Lambda Expressions in LINQ?
+Can you provide a concise distinction between anonymous method and lambda expressions?
+What is Expression Trees and how they used in LINQ?
+Explain what are LINQ compiled queries?
+When should I use a CompiledQuery?
+Could you compare Entity Framework vs LINQ to SQL vs ADO.NET with stored procedures?
+When trying to decide between using the Entity Framework and LINQ to SQL as an ORM, what's the difference?
+What is the difference between returning IQueryable<T> vs. IEnumerable<T>?
+Why use AsEnumerable() rather than casting to IEnumerable<T>?
+Could you explain what is the exact deference between deferred execution and Lazy evaluation in C#?
+What are the benefits of a Deferred Execution in LINQ?
+Filter out the first 3 even numbers from the list using LINQ
+Using LINQ to remove elements from a List<T>
+Get the indexes of top n items where item value = true
