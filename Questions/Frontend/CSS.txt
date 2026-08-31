@@ -1,50 +1,46 @@
 What is CSS?
-Explain the three main ways to apply CSS styles to a web page
+Explain the three main ways to apply CSS styles to a web page.
 What is a CSS rule?
-What is CSS selectors? Name some.
+What are CSS selectors? Name some.
 What is the difference between classes and IDs in CSS?
-Explain the CSS box model and the layout components that it consists of
-Explain your understanding of the box model and how you would tell the browser in CSS to render your layout in different box models.
-What does * { box-sizing: border-box; } do? What are its advantages?
+Explain the CSS box model, including content-box vs border-box.
+What does * { box-sizing: border-box; } do, and what are its advantages?
 What is DOM (Document Object Model) and how is it linked to CSS?
-How does CSS actually work (under the hood of browser)?
-What's the difference between a relative, fixed, absolute and statically positioned element?
-Describe floats and how they work
-Explain the purpose of clearing floats in CSS
-What clearfix methods do you know? Provide some examples.
-Describe z-index and how a stacking context is formed
-Explain the basic rules of CSS Specificity
-What the code fragment has the greater CSS specificity?
-Describe pseudo-elements and discuss what they are used for
-Have you played around with the new CSS Flexbox or Grid specs?
-What is a Grid System in CSS?
-Have you ever used a grid system, and if so, what do you prefer?
-Explain the usage of table-layout property
-How to create a zebra striped table with CSS?
-What existing CSS frameworks have you used locally, or in production? How would you change/improve them?
-What’s the difference between resetting and normalizing CSS? Which would you choose, and why?
-Explain CSS sprites, and how you would implement them on a page or site
+How does CSS work under the hood in the browser?
+What's the difference between relative, fixed, absolute, and static positioning?
+Describe floats, clearing floats, and common clearfix methods.
+Describe z-index and how a stacking context is formed.
+Explain the basic rules of CSS specificity.
+Given two selectors, which one has greater specificity and why?
+Describe pseudo-elements and what they are used for.
+What are Flexbox and Grid, and when would you use each?
+What is a grid system in CSS, and what have you used in practice?
+Explain the usage of table-layout property.
+How do you create a zebra-striped table with CSS?
+Which CSS frameworks have you used, and how would you improve them?
+What’s the difference between resetting and normalizing CSS?
+Explain CSS sprites and how you would implement them.
 How would you approach fixing browser-specific styling issues?
-Is there any reason you'd want to use translate() instead of absolute positioning, or vice-versa? And why?
+When would you use translate() instead of absolute positioning (or vice versa)?
 How is responsive design different from adaptive design?
-Can you explain the difference between coding a website to be responsive versus using a mobile-first strategy?
-Have you ever worked with retina graphics? If so, when and what techniques did you use?
-How do you optimize your webpages for print?
-What does Accessibility (a11y) mean?
-What are the different ways to visually hide content (and make it available only for screen readers)?
-How to style every element which has an adjacent item right before it?
-Write down a selector that will match any links end in .zip, .ZIP, .Zip etc...
+What is the difference between responsive design and a mobile-first strategy?
+Have you worked with retina graphics? If so, what techniques did you use?
+How do you optimize webpages for print?
+What does accessibility (a11y) mean?
+What are different ways to visually hide content while keeping it available to screen readers?
+How do you style every element that has an adjacent previous sibling?
+Write a selector that matches links ending in .zip (case-insensitive).
 What is Sass?
-How to use variables in Sass?
-What is variable interpolation in Sass? Provide some examples.
-List out the data types that Sass supports
-List out the key features for Sass
-What Selector Nesting in Sass is used for?
-What is a Mixin and how to use on?
-Explain what is a @extend directive used for in Sass?
+How do you use variables in Sass?
+What is variable interpolation in Sass? Provide examples.
+List the data types supported by Sass.
+List key features of Sass.
+What is selector nesting in Sass used for?
+What is a mixin and how do you use it?
+What is @extend used for in Sass?
 What is the @content directive used for?
 What's the difference between SCSS and Sass?
-What is CSS preprocessor and why to use one?
+What is a CSS preprocessor and why use one?
 What are the advantages/disadvantages of using CSS preprocessors?
-What will be the CSS output for the following Sass code?
-What’s wrong with Sass nesting? Provide some example.
+What will be the CSS output for a given Sass snippet?
+What’s wrong with excessive Sass nesting? Provide an example.

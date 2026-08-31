@@ -1,18 +1,14 @@
 What is a Module, and what does it contain?
-What is a Component? Why would you use it?
-What is the minimum definition of a Component?
+What is a Component, and what is its minimum definition?
 What's the difference between an Angular Component and Module?
-What is the difference between @Component and @Directive in Angular?
 What is the difference between @Component and @Directive in Angular?
 What is a Service, and when will you use it?
 What is Interpolation?
 What is the difference between Structural and Attribute directives in Angular?
 What is a bootstrapping module?
-What is the purpose of base href tag?
-How to inject base href?
+What is the purpose of base href tag, and how do you inject base href?
 What are the differences between AngularJS (angular 1.x) and Angular (Angular 2.x and beyond)?
-What is Routing Guard in Angular?
-How would you protect a component being activated through the router?
+What is a Routing Guard in Angular, and how would you protect a component being activated through the router?
 What is Router Outlet?
 What is Router State?
 What is Activated route?
@@ -20,92 +16,76 @@ What is the purpose of Wildcard route?
 Do I always need a Routing Module?
 What is the equivalent of ngShow and ngHide in Angular?
 What is the difference between *ngIf vs [hidden]?
-You have an HTML response I want to display. How do I do that?
-What are Pipes? Give me an example.
+You have an HTML response you want to display. How do you do that safely in Angular?
+What are Pipes? Give an example.
 What is a Parameterized pipe?
 What is the difference between pure and impure pipe?
 How can I select an element in a component template?
 What does this line do?
 What is an Observable?
-What are Observables?
 What is an Observer?
 What is Subscribing?
 What is Multicasting?
 What are observable creation functions?
-What is the difference between promise and observable?
-Can you explain the difference between Promise and Observable in Angular? In what scenario can we use each case?
-Explain the difference between Promise and Observable in Angular?
-What is the difference between BehaviorSubject vs Observable?
+What is the difference between Promise and Observable in Angular, and when would you use each?
+What is the difference between BehaviorSubject and Observable?
 How do you perform error handling in Observables?
-What are the utility functions provided by RxJS?
+What are the utility functions/operators provided by RxJS?
 What is Reactive Programming and how does it relate to Angular?
-What is difference between declarations, providers and import in NgModule?
-Explain the difference between Constructor and ngOnInit
-Why should ngOnInit be used, if we already have a constructor?
+What is the difference between declarations, providers, and imports in NgModule?
+Explain the difference between constructor and ngOnInit. Why use ngOnInit if a constructor already exists?
 What are the lifecycle hooks for components and directives?
 How do you categorize data binding types?
-What happens if you use <script> tag inside template?
-What is the option to choose between Inline and External template file?
-How would you run unit test?
+What happens if you use a <script> tag inside an Angular template?
+How do you choose between an inline and external template file?
+How would you run unit tests in Angular?
 What is TestBed?
 Why would you use a spy in a test?
 What does detectChanges do in Angular Jasmine tests?
-How do you create application to use scss?
-How to bundle an Angular app for production?
-How to set headers for every request in Angular?
-How do you perform Error Handling for HttpClient?
+How do you create an application to use SCSS?
+How do you bundle an Angular app for production?
+How do you set headers for every request in Angular?
+How do you perform error handling for HttpClient?
 Could I use jQuery with Angular?
 What is Redux and how does it relate to an Angular app?
 What are dynamic components?
-What are Custom elements?
-Explain how Custom Elements works internally?
-Do I need to bootstrap custom elements?
-What are the mapping rules between Angular component and custom element?
-Do you know how you can run AngularJS and Angular side by side?
-What is ngUpgrade?
-Is there no equivalent to $scope.emit() or $scope.broadcast() in Angular?
-How would you control size of an element on resize of the window in a component?
-What would be a good use for NgZone service?
-Could you provide some particular examples of using NgZone?
-What is Zone in Angular?
-What is the Angular equivalent to an AngularJS $watch?
-Why would you use renderer methods instead of using native element methods?
+What are Custom Elements in Angular, how do they work internally, and do they need bootstrapping?
+What are the mapping rules between an Angular component and a custom element?
+How can you run AngularJS and Angular side by side (ngUpgrade)?
+Is there an equivalent to $scope.emit() or $scope.broadcast() in Angular?
+How would you control the size of an element on window resize in a component?
+What is Zone/NgZone in Angular, and when would you use it?
+What is the Angular equivalent of an AngularJS $watch?
+Why would you use renderer methods instead of native element methods?
 How would you insert an embedded view from a prepared TemplateRef?
-Name and explain some Angular Module Loading examples
-When would you use eager module loading?
-Why would you use lazy loading modules in Angular app?
-Explain Lazy Loading in Angular?
-When does a lazy loaded module is loaded?
+Name and explain Angular module loading strategies.
+When would you use eager loading?
+What is lazy loading in Angular, why use it, and when is a lazy-loaded module loaded?
 What is the need for SystemJS in Angular?
-Name some differences between SystemJS vs webpack?
-How would you extract webpack config from angular cli project?
-Why do we need compilation process in Angular?
-What does a just-in-time (JIT) compiler do (in general)?
-What are the ways to control AOT compilation?
-What are the advantages with AOT?
-What is AOT?
-Just-in-Time (JIT) vs Ahead-of-Time (AOT) compilation. Explain the difference.
+What are key differences between SystemJS and webpack?
+How would you extract webpack config from an Angular CLI project?
+Why do we need a compilation process in Angular?
+What does a just-in-time (JIT) compiler do?
+What is AOT, what are its advantages, and how is it different from JIT?
+What are ways to control AOT compilation?
 What is Angular Ivy?
 What is Ivy Renderer?
-How Would You Compare View Engine vs Ivy?
-What is the Locality principle for Ivy?
-How does Ivy affect the (Re)build time?
-What is difference between Incremental DOM and Virtual DOM?
-What is Incremental DOM? How is it different from Virtual DOM?
-Why Incremental DOM has low memory footprint?
-Why Incremental DOM is Tree Shakable?
-Why did the Google team go with incremental DOM instead of virtual DOM?
-Explain the purpose of Service Workers in Angular
+How would you compare View Engine vs Ivy?
+What is the Locality principle in Ivy?
+How does Ivy affect rebuild time?
+What is Incremental DOM, and how is it different from Virtual DOM?
+Why does Incremental DOM have a low memory footprint and support tree shaking?
+Why did the Google team choose Incremental DOM instead of Virtual DOM?
+Explain the purpose of Service Workers in Angular.
 What is Angular Universal?
 What is Protractor?
-What is Bazel?
-Why we should use Bazel for Angular builds?
+What is Bazel, and why would you use it for Angular builds?
 What is the use of Codelyzer?
-Name some security best practices in Angular
-Are there any pros/cons (especially performance-wise) in using local storage to replace cookie functionality?
-How to detect a route change in Angular?
-When to use query parameters versus matrix parameters in Url?
-Why Angular uses Url segment?
-Angular 9: What are some new features in Angular 9?
-Angular 9: Explain improvements in Tree-Shaking
-Angular 8: What are some changes in Location module?
+Name some security best practices in Angular.
+What are pros/cons (especially performance-wise) of using local storage to replace cookies?
+How do you detect a route change in Angular?
+When do you use query parameters versus matrix parameters in URL?
+Why does Angular use URL segments?
+Angular 9: What are some new features?
+Angular 9: Explain improvements in tree-shaking.
+Angular 8: What are some changes in the Location module?

@@ -1,55 +1,50 @@
 What is the purpose of the alt attribute on images?
-Explain meta tags in HTML
-What is an iframe and how it works?
-What is a self closing tag?
-What is Character Encoding?
+Explain meta tags in HTML.
+What is an iframe and how does it work?
+What is a self-closing tag?
+What is character encoding?
 What is the difference between span and div?
-What is the difference between "section" and "div"?
-What's the difference between an "attribute" and a "property" in HTML?
+What is the difference between section and div?
+What's the difference between an attribute and a property in HTML/DOM?
 What is an optional tag?
-What does a DOCTYPE do?
-Why do I need a doctype and what does it do?
-Explain the difference between block elements and inline elements
-Write a HTML table tag sequence that outputs the following
+What does a DOCTYPE do, and why is it needed?
+Explain the difference between block and inline elements.
+Write an HTML table tag sequence for a given output.
 How can you highlight text in HTML?
-Describe the difference between "," and ".".
-What were some of the key goals and motivations for the HTML5 specification?
-What's new in HTML 5?
+What were key goals and motivations for the HTML5 specification?
+What's new in HTML5?
 What are the building blocks of HTML5?
-Why to use HTML5 semantic tags?
-Briefly describe the correct usage of the following HTML5 semantic elements: "header", "article", "section", "footer"
-Can a web page contain multiple "header" elements? What about "footer" elements?
-What is the purpose of 'main' element?
-What are "data-" attributes good for?
-What are some differences that XHTML has compared to HTML?
+Why use HTML5 semantic tags?
+Describe correct usage of semantic elements: header, article, section, and footer.
+Can a web page contain multiple header/footer elements?
+What is the purpose of the main element?
+What are data-* attributes good for?
+What are key differences between XHTML and HTML?
 What is the DOM?
-Explain the difference between cookies, session and local storage
-Describe the difference between a 'cookie', 'sessionStorage' and 'localStorage'.
-What is HTML5 Web Storage? Explain "localStorage" and "sessionStorage".
+Explain the difference between cookies, sessionStorage, and localStorage.
+What is HTML5 Web Storage?
 What is WebSQL?
-What is WebSQL?
-What is an IndexedDB?
+What is IndexedDB?
 What are Web Workers?
-What is an HTML preprocessor and are you using it?
+What is an HTML preprocessor, and do you use one?
 Have you used different HTML templating languages before?
-What are "defer" and "async" attributes on a "script" tag?
-Why is it generally a good idea to position CSSs between "<head>" and JSs just before "</body>"? Do you know any exceptions?
+What are defer and async attributes on a script tag?
+Why is CSS typically placed in head and JS near </body>? Any exceptions?
 When is it appropriate to use the small element?
 What is progressive rendering?
 What is WebP?
-How would you select svg or canvas for your site?
-Why you would use a "srcset" attribute in an image tag? Explain the process the browser uses when evaluating the content of this attribute.
+How do you choose between SVG and Canvas?
+Why use srcset in an image tag, and how does the browser evaluate it?
 What are Web Components?
-Check HTML Markup Validity
-Discuss the differences between an HTML specification and a browser’s implementation thereof.
-Explain almost standard, full standard and quirks mode
-What's the difference between Full Standard, Almost Standard and Quirks Mode?
+How do you validate HTML markup?
+Discuss differences between an HTML specification and browser implementation.
+Explain Full Standards, Almost Standards, and Quirks mode.
 How do you set IE compatibility mode?
-Where and why is the "rel=\"noopener\"" attribute used?
-What is the purpose of cache busting and how can you achieve it?
+Where and why is rel="noopener" used?
+What is cache busting and how can you achieve it?
 How do you serve a page with content in multiple languages?
-How do you change the direction of html text?
-What kind of things must you be wary of when designing or developing for multilingual sites?
-How Can I Get Indexed Better by Search Engines?
-What is accessibility & ARIA role means in a web application?
-Could you generate a public key in HTML?
+How do you change text direction in HTML?
+What should you watch for when designing/developing multilingual sites?
+How can you improve SEO indexing?
+What do accessibility and ARIA roles mean in a web application?
+Can you generate a public key in HTML?

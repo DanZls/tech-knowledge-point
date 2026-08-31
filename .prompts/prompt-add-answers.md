@@ -1,10 +1,11 @@
-Answer questions from [questions-file] and add them to Answers/[answer-file] with respect to tech stack [tech-stack]
+Answer questions from Questions/[questions-file] and add them to Answers/[answer-file] with respect to tech stack [.Net, MSSQL, Angular, Azure]
 - Use .prompts/example-answers.md as a formatting and styling example
 - If the answers file does not exist, create it
 - Avoid adding duplicates
 - Preserve original order from the questions file
 - Maintain content table at the beginning of the answers file properly, update it on changes
-- The answers must be within 10-15 sentences limit (not including the code example)
+- The answers must be within 5-10 sentences limit (not including the code example)
+- Keep the answers readable, use lists and paragraphs if necessary
 - Keep your answers concise, but not too short, don't skip important details
 - If your answer is under the limit, add more details to it to avoid sketchy follow-up questions from interviewers
 - Include short minimal code examples where necessary. Add them as a single block of code at the end of each answer

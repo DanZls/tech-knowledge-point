@@ -1,91 +1,75 @@
-What is TypeScript and why do we need it?
-What is TypeScript and why one should use it?
-What is TypeScript and why would I use it in place of JavaScript?
-What are the benefits of TypeScript?
-What are the difference beetwen Typescript and JavaScript?
-Do we need to compile TypeScript files and why?
-What is the difference between ".ts" and ".tsx" extensions in TypeScript?
-List the built-in types in Typescript
-What is the difference between types "String" and "string" in TypeScript?
-What is the pipe, "|" mean in TypeScript?
-How do we create an "enum" with "string" values?
-What is the difference between "enum" and "const enum"s?
-Explain the difference between "declare enum" vs "declare const enum"
-What are Modules in Typescript?
-What is Typings in Typescript?
-What are different components of TypeScript?
-How can we use optional chaining in TypeScript?
-What is Optional Chaining in TypeScript?
-What is the purpose of Nullish Coalescing operator?
-What is the fundamental difference between Optional Chaining ("?.") and Non-null assertion operator ("!") in TypeScript?
-In a?.b.c, if a.b is null, then a.b.c will evaluate to "undefined", right?
-How could you check "null" and "undefined" in TypeScript?
-Is there a way to check for both "null" and "undefined" in TypeScript?
-Which object oriented terms are supported by TypeScript?
-Does TypeScript support all object oriented principles?
-Does TypeScript supports function overloading?
-How would you overload a class constructor in TypeScript?
-How to call base class constructor from child class in TypeScript?
-What is getters/setters in TypeScript?
-Which access modifiers are implied when not specified?
-What is the default access modifier for members of a class in TypeScript?
-What is the difference between "Private" and "Protected" variables in TypeScript?
-What are the differences between the "private" keyword and "private" fields in TypeScript?
-List a few rules of "private" fields in TypeScript
-How to implement class constants in TypeScript?
-Why do we need to use "abstract" keyword for classes and their methods in TypeScript?
-How can you allow classes defined in a module to be accessible outside of the module?
-What is Interface in TypeScript?
-When to use interfaces and when to use classes in TypeScript?
-What is the difference between Classes and Interfaces in Typescript?
-What is the difference between "type" and "interface" in TypeScript?
-What is the difference between interface vs type statements?
-How to add types to an interface from another interface or extend types in TypeScript?
-How to perform string interpolation in TypeScript?
-Explain generics in TypeScript
-Explain what is "never" datatype in TypeScript?
-How the "never" datatype can be useful?
-What is Type Erasure in TypeScript?
-What is Structural Typing?
-How TypeScript is optionally statically typed language?
-How to choose between "never", "unknown", and "any" in TypeScript?
-What is the difference between "unknown" and "any" type?
-What does Short-Circuiting mean in TypeScript?
-Describe what are conditional types in TypeScript?
-What are some use cases of template literal types in TypeScript?
-What is the "unique symbol" is used for?
-How to define a TypeScript class which has an index signature?
-Why we need Index Signature in TypeScript?
-How to check the type of a variable or constant in TypeScript?
-How to make Arrays that can only be read, TypeScript?
-How to make a "readonly" tuple type in TypeScript?
-Is that TypeScript code valid? Explain why
-How to make an array with a specific length or array elements in TypeScript?
-Are strongly-typed functions as parameters possible in TypeScript?
-What’s wrong with that code?
-Explain why that code is marked as WRONG?
-What will be result of this code execution?
+What is TypeScript, and why use it instead of plain JavaScript?
+What are the benefits and tradeoffs of TypeScript?
+What are key differences between TypeScript and JavaScript?
+Do TypeScript files need compilation, and why?
+What is the difference between .ts and .tsx files?
+List built-in types in TypeScript.
+What is the difference between String and string in TypeScript?
+What does the pipe (|) mean in TypeScript?
+How do you create a string enum?
+What is the difference between enum and const enum?
+What is the difference between declare enum and declare const enum?
+What are modules in TypeScript?
+What are typings in TypeScript?
+What are the core components of TypeScript?
+What is optional chaining (?.), and how is it different from non-null assertion (!)?
+What is nullish coalescing (??)?
+In a?.b.c, what happens if a.b is null/undefined?
+How do you check for null and undefined in TypeScript?
+Which OOP concepts does TypeScript support?
+Does TypeScript support function overloading?
+How do you overload a class constructor in TypeScript?
+How do you call a base class constructor from a child class in TypeScript?
+What are getters/setters in TypeScript?
+What is the default access modifier in a TypeScript class?
+What is the difference between private and protected?
+What is the difference between TypeScript private and ECMAScript #private fields?
+How do you implement class constants in TypeScript?
+Why use abstract classes/methods in TypeScript?
+How can classes defined in a module be made accessible outside the module?
+What is an interface in TypeScript?
+When would you use interfaces vs classes?
+What is the difference between type and interface?
+How do you extend interfaces/types from other interfaces/types?
+How do you do string interpolation in TypeScript?
+Explain generics in TypeScript.
+What is never, and when is it useful?
+What is type erasure in TypeScript?
+What is structural typing?
+Why is TypeScript called optionally statically typed?
+How do you choose between never, unknown, and any?
+What is the difference between unknown and any?
+What does short-circuiting mean in TypeScript/JavaScript?
+What are conditional types in TypeScript?
+What are use cases of template literal types?
+What is unique symbol used for?
+How do you define a class with an index signature in TypeScript, and why use index signatures?
+How do you check a variable’s type in TypeScript?
+How do you make readonly arrays and readonly tuples?
+How do you make an array with a specific length or constrained elements in TypeScript?
+Are strongly typed function parameters supported in TypeScript?
+Is this TypeScript code valid? Explain why.
+What’s wrong with this code, and how would you fix it?
+What will be the result of this code execution?
 What are assertion functions?
-What are the use cases for a "const" assertion?
-What does the "const" assertion mean in TypeScript?
-Why is the "infer" keyword needed in TypeScript?
-How to exclude property from type in TypeScript?
-What is Decorators in TypeScript?
-Explain how and why we could use property decorators in TS?
-What is Mixin Class in TypeScript?
-What is Mixin Constructor Type?
-Explain what is Currying in TypeScript?
-What is dynamic "import" expression?
-What is the benefit of "import" assertions features in TypeScript?
-Is it possible to generate TypeScript declaration files from JS library?
-What is a TypeScript Map file?
-Could we use TypeScript on backend and how?
-How to use external plain JavaScript libraries in TypeScript?
-What are Ambients in TypeScripts and when to use them?
-Explain when to use "declare" keyword in TypeScript
-What does the "tsconfig" option "lib" do?
-What is the need of "--incremental" flag in TypeScript?
-How to make a "union" type from a type alias or interface properties in TypeScript?
-Explain Project References and its benefits
-How does "override" keyword works in TypeScript?
+What does const assertion mean, and when is it useful?
+Why is the infer keyword needed in TypeScript?
+How do you exclude a property from a type in TypeScript?
+What are decorators in TypeScript?
+How and why would you use property decorators in TypeScript?
+What is a mixin class in TypeScript?
+What is a mixin constructor type?
+Explain currying in TypeScript.
+What is dynamic import()?
+What are import assertions in TypeScript, and what benefits do they provide?
+Can TypeScript declaration files be generated from a JavaScript library?
+What is a TypeScript source map file?
+Can TypeScript be used on the backend? How?
+How do you use external plain JavaScript libraries in TypeScript?
+What are ambient declarations, and when do you use declare?
+What does tsconfig "lib" option do?
+What is the purpose of --incremental in TypeScript?
+How do you create a union type from type alias or interface properties?
+Explain project references and their benefits.
+How does the override keyword work in TypeScript?
 What is one thing you would change about TypeScript?
